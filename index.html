@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://api.github.com; base-uri 'none'; form-action 'none'; object-src 'none'">
+<meta name="referrer" content="no-referrer">
+<title>Sohn's Listening Room</title>
+<meta name="description" content="Sohn이 아티스트 한 명씩 깊이 듣고 남기는 음악 리뷰.">
+<meta property="og:title" content="Sohn's Listening Room">
+<meta property="og:description" content="Sohn이 아티스트 한 명씩 깊이 듣고 남기는 음악 리뷰.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#e6e4df">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%23222'/%3E%3Ccircle cx='16' cy='16' r='4' fill='%23e6e4df'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="app.css">
+<script src="app.js" defer></script>
+</head>
+<body>
+<header class="topbar"><div class="topbar-in"><a class="brand" href="#">Sohn’s Listening Room</a><nav aria-label="메뉴"><button class="active" id="home" type="button">아티스트</button><button id="reviews" type="button">리뷰</button></nav><div class="tools"><span class="owner-chip" id="owner-chip" hidden>작성자 모드</span><button id="backup" type="button" hidden>백업 받기</button><button id="restore" type="button" hidden>백업 가져오기</button><button id="logout" type="button" hidden>로그아웃</button><input type="file" id="file" accept="application/json,.json" hidden></div></div></header>
+<main class="panel"><div id="content"><p class="muted pad">컬렉션을 불러오는 중입니다…</p></div></main>
+<footer class="foot"><span id="footer-note">Sohn의 공개 음악 일기</span><span class="foot-right"><span id="owner-status" class="owner-status">방문자는 읽기 전용</span><button id="login" type="button" class="link-button">작성자 로그인</button></span></footer>
+
+<dialog id="review"><form id="review-form"><div class="dialog-head"><p class="eyebrow" id="review-kind"></p><button type="button" id="close" aria-label="닫기">✕</button></div><h2 id="review-title"></h2><p class="muted" id="review-sub"></p><label for="score">Sohn의 점수 · 10점 만점<input id="score" name="score" type="number" min="0" max="10" step="any" inputmode="decimal" placeholder="예: 8.7 또는 9.25 · 빈칸은 미평가"></label><label for="note">감상<textarea id="note" name="note" maxlength="4000" placeholder="다시 들을 나에게 남기는 메모"></textarea></label><label class="check" for="favorite"><input type="checkbox" id="favorite"> 다시 듣고 싶은 음악</label><div class="dialog-actions"><button class="primary" id="save" type="submit">리뷰 공개 저장</button></div><p class="muted small">저장하면 GitHub 저장소의 reviews.json에 기록되고 방문자에게 공개됩니다. 점수를 비우면 미평가로 표시됩니다.</p></form></dialog>
+
+<dialog id="login-dialog"><form id="login-form"><div class="dialog-head"><p class="eyebrow">작성자 로그인</p><button type="button" id="login-close" aria-label="닫기">✕</button></div><h2>GitHub 토큰으로 로그인</h2><p class="muted small">이 사이트 저장소에만 쓰기 권한이 있는 토큰(Fine-grained token, Contents: Read and write)을 붙여 넣으세요. 토큰은 이 브라우저에만 저장되고, 로그아웃하면 지워집니다.</p><label for="token">토큰<input id="token" type="password" autocomplete="off" spellcheck="false" placeholder="github_pat_…"></label><p class="error" id="login-error" role="alert"></p><div class="dialog-actions"><button class="primary" id="login-ok" type="submit">로그인</button></div></form></dialog>
+
+<dialog id="confirm"><div class="dialog-head"><p class="eyebrow">백업 가져오기</p><button type="button" id="confirm-close" aria-label="닫기">✕</button></div><h2 id="confirm-title"></h2><p class="muted">이미 있는 평가는 그대로 두고, 없는 평가만 추가합니다.</p><div class="dialog-actions"><button class="primary" id="confirm-ok" type="button">가져오기</button><button class="ghost" id="confirm-cancel" type="button">취소</button></div></dialog>
+<div id="toast" role="status" hidden></div>
+</body>
+</html>

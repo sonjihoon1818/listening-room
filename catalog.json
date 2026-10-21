@@ -1,0 +1,1043 @@
+{
+ "artists": [
+  {
+   "id": "kate-bollinger",
+   "name": "Kate Bollinger",
+   "source": "https://katebollinger.bandcamp.com/music",
+   "image": "covers/artist-kate-bollinger.jpg",
+   "addedAt": "2026-10-12",
+   "imageSource": "https://f4.bcbits.com/img/0046962173_21.jpg"
+  }
+ ],
+ "updatedAt": "2026-10-12",
+ "releases": [
+  {
+   "id": "bc-shop-girl",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Shop Girl",
+   "artist": "Kate Bollinger",
+   "type": "EP",
+   "date": "2026-10-02",
+   "cover": "covers/bc-shop-girl.jpg",
+   "source": "https://katebollinger.bandcamp.com/album/shop-girl",
+   "collaboration": false,
+   "tracks": [
+    "e39f5336dd3ad4437755",
+    "0d8e845feea0eb63fd98",
+    "a3184ffe8f324abb25f1",
+    "83865ad3371031148639",
+    "8f3eb87d49a85251ea96"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a3120686988_5.jpg"
+  },
+  {
+   "id": "apple-1876894583",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Gone",
+   "artist": "Kate Bollinger & Cathy Hamer",
+   "type": "EP",
+   "date": "2026-03-02",
+   "cover": "covers/apple-1876894583.jpg",
+   "source": "https://music.apple.com/us/album/gone-ep/1876894583?uo=4",
+   "collaboration": true,
+   "tracks": [
+    "21a0931263d3008014ef",
+    "a72395ad4d20cc4bda43",
+    "13d6caff38e70048a83c",
+    "15af1546306d45b39c0a"
+   ],
+   "coverSource": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/7d/73/ed7d7396-fa67-972e-6907-d868543d2d18/62421.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "apple-1867837969",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "You Are Mine In Those Golden Days",
+   "artist": "Kate Bollinger & Cathy Hamer",
+   "type": "싱글",
+   "date": "2026-01-12",
+   "cover": "covers/apple-1867837969.jpg",
+   "source": "https://music.apple.com/us/album/you-are-mine-in-those-golden-days-single/1867837969?uo=4",
+   "collaboration": true,
+   "tracks": [
+    "13d6caff38e70048a83c",
+    "15af1546306d45b39c0a"
+   ],
+   "coverSource": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/71/c2/d971c2f1-8915-91be-9ae7-400e599aa706/61410.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "bc-songs-from-a-thousand-frames-of-mind-deluxe",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Songs From A Thousand Frames Of Mind (Deluxe)",
+   "artist": "Kate Bollinger",
+   "type": "정규",
+   "date": "2025-10-03",
+   "cover": "covers/bc-songs-from-a-thousand-frames-of-mind-deluxe.jpg",
+   "source": "https://katebollinger.bandcamp.com/album/songs-from-a-thousand-frames-of-mind-deluxe",
+   "collaboration": false,
+   "tracks": [
+    "9950d0ee103d8004af7d",
+    "c8e12f507fcffb40f961",
+    "eb73b30a5e90c7bff7f5",
+    "61a0506cda9317e156b4",
+    "8b50d03e5ddc4c9e5e69",
+    "e9cdae4509189ac1e577",
+    "5a09306cf334ebf59787",
+    "12f9a5666bf0412c801d",
+    "92cf905d1e35a873e74a",
+    "8f3930975f507cd97891",
+    "776e2f9630c700bcd17e",
+    "c53bf9f457e06b2d08cc",
+    "39ea0dcceb1f1854756e",
+    "d63b4e97e693785a11dd",
+    "e11ca349cb1eb25aa4f4"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a1605627515_5.jpg"
+  },
+  {
+   "id": "apple-1834039677",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Belong To You (feat. Kate Bollinger)",
+   "artist": "Cut Copy",
+   "type": "싱글",
+   "date": "2025-09-03",
+   "cover": "covers/apple-1834039677.jpg",
+   "source": "https://music.apple.com/us/album/belong-to-you-feat-kate-bollinger-single/1834039677?uo=4",
+   "collaboration": true,
+   "tracks": [
+    "89b91ef9e6ff7d0377e6"
+   ],
+   "coverSource": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/3b/ce/793bceeb-f5f8-b536-a8a9-d2683d455241/199538218893.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "apple-1768529755",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "What Can I Give You",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2024-11-04",
+   "cover": "covers/apple-1768529755.jpg",
+   "source": "https://music.apple.com/us/album/what-can-i-give-you-single/1768529755?uo=4",
+   "collaboration": false,
+   "tracks": [
+    "797a8b63f02b26366b2b"
+   ],
+   "coverSource": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/e0/23/6de0235e-a735-965f-29db-9fd3da2cf733/098787910643.png/600x600bb.jpg"
+  },
+  {
+   "id": "bc-lonely-sweet-devil",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Lonely / Sweet Devil",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2024-09-27",
+   "cover": "covers/bc-lonely-sweet-devil.jpg",
+   "source": "https://katebollinger.bandcamp.com/album/lonely-sweet-devil",
+   "collaboration": false,
+   "tracks": [
+    "8b50d03e5ddc4c9e5e69",
+    "8f3930975f507cd97891"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a3838190201_5.jpg"
+  },
+  {
+   "id": "bc-songs-from-a-thousand-frames-of-mind",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Songs From A Thousand Frames Of Mind",
+   "artist": "Kate Bollinger",
+   "type": "정규",
+   "date": "2024-09-27",
+   "cover": "covers/bc-songs-from-a-thousand-frames-of-mind.jpg",
+   "source": "https://katebollinger.bandcamp.com/album/songs-from-a-thousand-frames-of-mind",
+   "collaboration": false,
+   "tracks": [
+    "9950d0ee103d8004af7d",
+    "c8e12f507fcffb40f961",
+    "eb73b30a5e90c7bff7f5",
+    "61a0506cda9317e156b4",
+    "8b50d03e5ddc4c9e5e69",
+    "e9cdae4509189ac1e577",
+    "5a09306cf334ebf59787",
+    "12f9a5666bf0412c801d",
+    "92cf905d1e35a873e74a",
+    "8f3930975f507cd97891",
+    "776e2f9630c700bcd17e"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a2792362313_5.jpg"
+  },
+  {
+   "id": "bc-you-at-home",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "You At Home",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2023-09-13",
+   "cover": "covers/bc-you-at-home.jpg",
+   "source": "https://katebollinger.bandcamp.com/album/you-at-home",
+   "collaboration": false,
+   "tracks": [
+    "9bb9d67beb77175cf0fa"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a1305304327_5.jpg"
+  },
+  {
+   "id": "apple-1840253810",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Los Angeles Story (feat. Kate Bollinger)",
+   "artist": "Paul Cherry",
+   "type": "싱글",
+   "date": "2023-06-02",
+   "cover": "covers/apple-1840253810.jpg",
+   "source": "https://music.apple.com/us/album/los-angeles-story-feat-kate-bollinger-single/1840253810?uo=4",
+   "collaboration": true,
+   "tracks": [
+    "fb06d8fb3136ee431e49",
+    "5ff2826d76cb3f751f96"
+   ],
+   "coverSource": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/2a/66/f22a6641-c76a-b42c-b501-06b86a9f2fa2/117386.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "bc-jaime-les-filles",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "J'aime les filles",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2023-01-10",
+   "cover": "covers/bc-jaime-les-filles.jpg",
+   "source": "https://katebollinger.bandcamp.com/album/jaime-les-filles",
+   "collaboration": false,
+   "tracks": [
+    "55d87796a31a06770eb3"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a3008099452_5.jpg"
+  },
+  {
+   "id": "apple-1775725625",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Pictures of You",
+   "artist": "Drugdealer & Kate Bollinger",
+   "type": "싱글",
+   "date": "2022-10-12",
+   "cover": "covers/apple-1775725625.jpg",
+   "source": "https://music.apple.com/us/album/pictures-of-you-single/1775725625?uo=4",
+   "collaboration": true,
+   "tracks": [
+    "5127349c2e82c6afadd2",
+    "1b6829553f44861e2e56",
+    "487687091b98869dfb0c"
+   ],
+   "coverSource": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/1f/e6/4a1fe605-b5e0-4154-1956-5fe3c1ece0e7/184923129236_cover.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "bc-running",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Running",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2022-09-07",
+   "cover": "covers/bc-running.jpg",
+   "source": "https://katebollinger.bandcamp.com/album/running",
+   "collaboration": false,
+   "tracks": [
+    "e9cdae4509189ac1e577"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a2182968311_5.jpg"
+  },
+  {
+   "id": "bc-look-at-it-in-the-light",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Look at it in the Light",
+   "artist": "Kate Bollinger",
+   "type": "EP",
+   "date": "2022-04-22",
+   "cover": "covers/bc-look-at-it-in-the-light.jpg",
+   "source": "https://katebollinger.bandcamp.com/album/look-at-it-in-the-light",
+   "collaboration": false,
+   "tracks": [
+    "bb6922b6ec8491e99a88",
+    "82a2b51fe149b8b06a65",
+    "f50887d40f7f9973a5c4",
+    "a04d60068a2a4ba4e3c6",
+    "8ecc6a3472158a0e71f9",
+    "20c61e11886d8123fb43"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a3903679352_5.jpg"
+  },
+  {
+   "id": "bc-yards-gardens",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Yards / Gardens",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2021-11-10",
+   "cover": "covers/bc-yards-gardens.jpg",
+   "source": "https://katebollinger.bandcamp.com/album/yards-gardens",
+   "collaboration": false,
+   "tracks": [
+    "a04d60068a2a4ba4e3c6"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a2732210280_5.jpg"
+  },
+  {
+   "id": "bc-shadows",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Shadows",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2021-09-08",
+   "cover": "covers/bc-shadows.jpg",
+   "source": "https://katebollinger.bandcamp.com/album/shadows",
+   "collaboration": false,
+   "tracks": [
+    "e35bb0e1fd5cd386db76"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a3756700033_5.jpg"
+  },
+  {
+   "id": "bc-a-word-becomes-a-sound",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "A word becomes a sound",
+   "artist": "Kate Bollinger",
+   "type": "EP",
+   "date": "2020-08-21",
+   "cover": "covers/bc-a-word-becomes-a-sound.jpg",
+   "source": "https://katebollinger.bandcamp.com/album/a-word-becomes-a-sound",
+   "collaboration": false,
+   "tracks": [
+    "678f51973bcb11dd4daf",
+    "d5be807c288b5aaeee26",
+    "ad2a23db3816bd8ad91c",
+    "f2baba3320841a917e10",
+    "2cbf5c7b2a0b819ab026"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a3396322911_5.jpg"
+  },
+  {
+   "id": "apple-1514269215",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "I'm Not Around (feat. Kate Bollinger)",
+   "artist": "Pax",
+   "type": "싱글",
+   "date": "2020-05-26",
+   "cover": "covers/apple-1514269215.jpg",
+   "source": "https://music.apple.com/us/album/im-not-around-feat-kate-bollinger-single/1514269215?uo=4",
+   "collaboration": true,
+   "tracks": [
+    "f53a37fff1b16ab78e76"
+   ],
+   "coverSource": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/46/6a/c1/466ac158-ea99-0467-96cd-9ef612811a0b/artwork.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "bc-a-couple-things",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "A Couple Things",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2020-03-11",
+   "cover": "covers/bc-a-couple-things.jpg",
+   "source": "https://katebollinger.bandcamp.com/track/a-couple-things",
+   "collaboration": false,
+   "tracks": [
+    "678f51973bcb11dd4daf"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a3124580368_5.jpg"
+  },
+  {
+   "id": "bc-no-other-like-you",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "No Other Like You",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2019-10-15",
+   "cover": "covers/bc-no-other-like-you.jpg",
+   "source": "https://katebollinger.bandcamp.com/track/no-other-like-you",
+   "collaboration": false,
+   "tracks": [
+    "bb8a6f5d32541f9ae5b0"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a2993722594_5.jpg"
+  },
+  {
+   "id": "bc-talk-about-it-b-side",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Talk About It (B-Side)",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2019-08-06",
+   "cover": "covers/bc-talk-about-it-b-side.jpg",
+   "source": "https://katebollinger.bandcamp.com/track/talk-about-it-b-side",
+   "collaboration": false,
+   "tracks": [
+    "4fc29f298b5d1a3e5f15"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a3132815248_5.jpg"
+  },
+  {
+   "id": "bc-i-dont-wanna-lose",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "I Don't Wanna Lose",
+   "artist": "Kate Bollinger",
+   "type": "EP",
+   "date": "2019-06-21",
+   "cover": "covers/bc-i-dont-wanna-lose.jpg",
+   "source": "https://katebollinger.bandcamp.com/album/i-dont-wanna-lose",
+   "collaboration": false,
+   "tracks": [
+    "2b56cff80989286c7ca3",
+    "8bbfb280d7e8b69400b7",
+    "7dc06ee0dc921224bf21",
+    "8953b3458fd6f1e6b961",
+    "3bb15e66cd3939abaa42"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a3739705765_5.jpg"
+  },
+  {
+   "id": "apple-1446792436",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Weight (feat. Kate Bollinger)",
+   "artist": "PBD",
+   "type": "싱글",
+   "date": "2018-12-16",
+   "cover": "covers/apple-1446792436.jpg",
+   "source": "https://music.apple.com/us/album/weight-feat-kate-bollinger-single/1446792436?uo=4",
+   "collaboration": true,
+   "tracks": [
+    "1634deb4a2ad950b5813"
+   ],
+   "coverSource": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b4/44/fb/b444fbef-6da4-0785-89f2-46f73fb9e021/053000278832_cover.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "bc-tests",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Tests",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2018-11-30",
+   "cover": "covers/bc-tests.jpg",
+   "source": "https://katebollinger.bandcamp.com/track/tests",
+   "collaboration": false,
+   "tracks": [
+    "6c4c5f1e2971022cf42a"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a4126370769_5.jpg"
+  },
+  {
+   "id": "bc-do-u-go-out-together",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "do u go out together?",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2018-09-10",
+   "cover": "covers/bc-do-u-go-out-together.jpg",
+   "source": "https://katebollinger.bandcamp.com/track/do-u-go-out-together",
+   "collaboration": false,
+   "tracks": [
+    "daacdf4d34a7b0a4b473"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a3651676969_5.jpg"
+  },
+  {
+   "id": "bc-softer",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Softer",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2018-06-19",
+   "cover": "covers/bc-softer.jpg",
+   "source": "https://katebollinger.bandcamp.com/track/softer",
+   "collaboration": false,
+   "tracks": [
+    "d7c77c6427c1f8927bec"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a3581909203_5.jpg"
+  },
+  {
+   "id": "apple-6767690704",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Water",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2018-06-04",
+   "cover": "covers/apple-6767690704.jpg",
+   "source": "https://music.apple.com/us/album/water-single/6767690704?uo=4",
+   "collaboration": false,
+   "tracks": [
+    "674dd48ae394d35f77b7"
+   ],
+   "coverSource": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/9e/1d/f69e1da2-bc16-3c73-e0b7-fa5b61419e8d/65965.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "bc-i-wanna-be-there",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "I Wanna Be There",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2018-03-31",
+   "cover": "covers/bc-i-wanna-be-there.jpg",
+   "source": "https://katebollinger.bandcamp.com/track/i-wanna-be-there",
+   "collaboration": false,
+   "tracks": [
+    "120523e8743d80b98b38"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a0102258993_5.jpg"
+  },
+  {
+   "id": "bc-dreams-before",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "Dreams Before",
+   "artist": "Kate Bollinger",
+   "type": "싱글",
+   "date": "2018-03-28",
+   "cover": "covers/bc-dreams-before.jpg",
+   "source": "https://katebollinger.bandcamp.com/album/dreams-before",
+   "collaboration": false,
+   "tracks": [
+    "f6e8b85662d4fe412942",
+    "a1702dcbc73850c692fb"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a2078875988_5.jpg"
+  },
+  {
+   "id": "bc-key-west-ep",
+   "collections": [
+    "kate-bollinger"
+   ],
+   "title": "KEY WEST ep",
+   "artist": "Kate Bollinger",
+   "type": "EP",
+   "date": "2017-10-16",
+   "cover": "covers/bc-key-west-ep.jpg",
+   "source": "https://katebollinger.bandcamp.com/album/key-west-ep",
+   "collaboration": false,
+   "tracks": [
+    "79ad9772930e5c925b5b",
+    "f69f0fa02884da88a5ef",
+    "a678dc919d3a6ac575b3",
+    "3cc3e4ad48ffba394a17",
+    "1757e5c65bb0f5d0bf00"
+   ],
+   "coverSource": "https://f4.bcbits.com/img/a2360336156_5.jpg"
+  }
+ ],
+ "tracks": {
+  "e39f5336dd3ad4437755": {
+   "id": "e39f5336dd3ad4437755",
+   "title": "Dreams Don’t Come True",
+   "artist": "Kate Bollinger",
+   "duration": 197.153,
+   "source": "https://katebollinger.bandcamp.com/track/dreams-don-t-come-true"
+  },
+  "0d8e845feea0eb63fd98": {
+   "id": "0d8e845feea0eb63fd98",
+   "title": "Shop Girl",
+   "artist": "Kate Bollinger",
+   "duration": 197.869,
+   "source": "https://katebollinger.bandcamp.com/track/shop-girl"
+  },
+  "a3184ffe8f324abb25f1": {
+   "id": "a3184ffe8f324abb25f1",
+   "title": "Dear Bobby",
+   "artist": "Kate Bollinger",
+   "duration": 212.702,
+   "source": "https://katebollinger.bandcamp.com/track/dear-bobby"
+  },
+  "83865ad3371031148639": {
+   "id": "83865ad3371031148639",
+   "title": "I Never Wanna Say Goodbye",
+   "artist": "Kate Bollinger",
+   "duration": 244.86,
+   "source": "https://katebollinger.bandcamp.com/track/i-never-wanna-say-goodbye"
+  },
+  "8f3eb87d49a85251ea96": {
+   "id": "8f3eb87d49a85251ea96",
+   "title": "The End",
+   "artist": "Kate Bollinger",
+   "duration": 151.245,
+   "source": "https://katebollinger.bandcamp.com/track/the-end"
+  },
+  "9950d0ee103d8004af7d": {
+   "id": "9950d0ee103d8004af7d",
+   "title": "What’s This About (La La La La)",
+   "artist": "Kate Bollinger",
+   "duration": 130.622,
+   "source": "https://katebollinger.bandcamp.com/track/what-s-this-about-la-la-la-la-2"
+  },
+  "c8e12f507fcffb40f961": {
+   "id": "c8e12f507fcffb40f961",
+   "title": "To Your Own Devices",
+   "artist": "Kate Bollinger",
+   "duration": 201.633,
+   "source": "https://katebollinger.bandcamp.com/track/to-your-own-devices-2"
+  },
+  "eb73b30a5e90c7bff7f5": {
+   "id": "eb73b30a5e90c7bff7f5",
+   "title": "Any Day Now",
+   "artist": "Kate Bollinger",
+   "duration": 197.574,
+   "source": "https://katebollinger.bandcamp.com/track/any-day-now-2"
+  },
+  "61a0506cda9317e156b4": {
+   "id": "61a0506cda9317e156b4",
+   "title": "God Interlude",
+   "artist": "Kate Bollinger",
+   "duration": 168.032,
+   "source": "https://katebollinger.bandcamp.com/track/god-interlude-2"
+  },
+  "8b50d03e5ddc4c9e5e69": {
+   "id": "8b50d03e5ddc4c9e5e69",
+   "title": "Lonely",
+   "artist": "Kate Bollinger",
+   "duration": 226.092,
+   "source": "https://katebollinger.bandcamp.com/track/lonely-3"
+  },
+  "e9cdae4509189ac1e577": {
+   "id": "e9cdae4509189ac1e577",
+   "title": "Running",
+   "artist": "Kate Bollinger",
+   "duration": 184.379,
+   "source": "https://katebollinger.bandcamp.com/track/running-3"
+  },
+  "5a09306cf334ebf59787": {
+   "id": "5a09306cf334ebf59787",
+   "title": "In A Smile",
+   "artist": "Kate Bollinger",
+   "duration": 204.106,
+   "source": "https://katebollinger.bandcamp.com/track/in-a-smile-2"
+  },
+  "12f9a5666bf0412c801d": {
+   "id": "12f9a5666bf0412c801d",
+   "title": "Postcard From A Cloud",
+   "artist": "Kate Bollinger",
+   "duration": 242.25,
+   "source": "https://katebollinger.bandcamp.com/track/postcard-from-a-cloud-2"
+  },
+  "92cf905d1e35a873e74a": {
+   "id": "92cf905d1e35a873e74a",
+   "title": "I See It Now",
+   "artist": "Kate Bollinger",
+   "duration": 207.778,
+   "source": "https://katebollinger.bandcamp.com/track/i-see-it-now-2"
+  },
+  "8f3930975f507cd97891": {
+   "id": "8f3930975f507cd97891",
+   "title": "Sweet Devil",
+   "artist": "Kate Bollinger",
+   "duration": 198.71,
+   "source": "https://katebollinger.bandcamp.com/track/sweet-devil-3"
+  },
+  "776e2f9630c700bcd17e": {
+   "id": "776e2f9630c700bcd17e",
+   "title": "All This Time",
+   "artist": "Kate Bollinger",
+   "duration": 274.607,
+   "source": "https://katebollinger.bandcamp.com/track/all-this-time-2"
+  },
+  "c53bf9f457e06b2d08cc": {
+   "id": "c53bf9f457e06b2d08cc",
+   "title": "You're A Dancer",
+   "artist": "Kate Bollinger",
+   "duration": 49.2085,
+   "source": "https://katebollinger.bandcamp.com/track/youre-a-dancer"
+  },
+  "39ea0dcceb1f1854756e": {
+   "id": "39ea0dcceb1f1854756e",
+   "title": "Lonely (Virgina Strings Version)",
+   "artist": "Kate Bollinger",
+   "duration": 246.829,
+   "source": "https://katebollinger.bandcamp.com/track/lonely-virgina-strings-version"
+  },
+  "d63b4e97e693785a11dd": {
+   "id": "d63b4e97e693785a11dd",
+   "title": "In A Smile (Park Demo 2022)",
+   "artist": "Kate Bollinger",
+   "duration": 153.443,
+   "source": "https://katebollinger.bandcamp.com/track/in-a-smile-park-demo-2022"
+  },
+  "e11ca349cb1eb25aa4f4": {
+   "id": "e11ca349cb1eb25aa4f4",
+   "title": "Any Day Now (Alternative Version)",
+   "artist": "Kate Bollinger",
+   "duration": 208.012,
+   "source": "https://katebollinger.bandcamp.com/track/any-day-now-alternative-version"
+  },
+  "9bb9d67beb77175cf0fa": {
+   "id": "9bb9d67beb77175cf0fa",
+   "title": "You At Home",
+   "artist": "Kate Bollinger",
+   "duration": 161.319,
+   "source": "https://katebollinger.bandcamp.com/track/you-at-home"
+  },
+  "55d87796a31a06770eb3": {
+   "id": "55d87796a31a06770eb3",
+   "title": "J'aime les filles",
+   "artist": "Kate Bollinger",
+   "duration": 196.766,
+   "source": "https://katebollinger.bandcamp.com/track/jaime-les-filles"
+  },
+  "bb6922b6ec8491e99a88": {
+   "id": "bb6922b6ec8491e99a88",
+   "title": "I Found Out",
+   "artist": "Kate Bollinger",
+   "duration": 172.852,
+   "source": "https://katebollinger.bandcamp.com/track/i-found-out"
+  },
+  "82a2b51fe149b8b06a65": {
+   "id": "82a2b51fe149b8b06a65",
+   "title": "Who Am I But Someone",
+   "artist": "Kate Bollinger",
+   "duration": 162.379,
+   "source": "https://katebollinger.bandcamp.com/track/who-am-i-but-someone"
+  },
+  "f50887d40f7f9973a5c4": {
+   "id": "f50887d40f7f9973a5c4",
+   "title": "Look at it in the Light",
+   "artist": "Kate Bollinger",
+   "duration": 166.853,
+   "source": "https://katebollinger.bandcamp.com/track/look-at-it-in-the-light"
+  },
+  "a04d60068a2a4ba4e3c6": {
+   "id": "a04d60068a2a4ba4e3c6",
+   "title": "Yards / Gardens",
+   "artist": "Kate Bollinger",
+   "duration": 141.743,
+   "source": "https://katebollinger.bandcamp.com/track/yards-gardens-2"
+  },
+  "8ecc6a3472158a0e71f9": {
+   "id": "8ecc6a3472158a0e71f9",
+   "title": "Lady in the Darkest Hour",
+   "artist": "Kate Bollinger",
+   "duration": 275.863,
+   "source": "https://katebollinger.bandcamp.com/track/lady-in-the-darkest-hour"
+  },
+  "20c61e11886d8123fb43": {
+   "id": "20c61e11886d8123fb43",
+   "title": "Connecting Dots",
+   "artist": "Kate Bollinger",
+   "duration": 274.064,
+   "source": "https://katebollinger.bandcamp.com/track/connecting-dots"
+  },
+  "e35bb0e1fd5cd386db76": {
+   "id": "e35bb0e1fd5cd386db76",
+   "title": "Shadows",
+   "artist": "Kate Bollinger",
+   "duration": 157.616,
+   "source": "https://katebollinger.bandcamp.com/track/shadows"
+  },
+  "678f51973bcb11dd4daf": {
+   "id": "678f51973bcb11dd4daf",
+   "title": "A Couple Things",
+   "artist": "Kate Bollinger",
+   "duration": 160.007,
+   "source": "https://katebollinger.bandcamp.com/track/a-couple-things-4"
+  },
+  "d5be807c288b5aaeee26": {
+   "id": "d5be807c288b5aaeee26",
+   "title": "Grey Skies",
+   "artist": "Kate Bollinger",
+   "duration": 164.48,
+   "source": "https://katebollinger.bandcamp.com/track/grey-skies"
+  },
+  "ad2a23db3816bd8ad91c": {
+   "id": "ad2a23db3816bd8ad91c",
+   "title": "Feel Like Doing Nothing",
+   "artist": "Kate Bollinger",
+   "duration": 152.471,
+   "source": "https://katebollinger.bandcamp.com/track/feel-like-doing-nothing"
+  },
+  "f2baba3320841a917e10": {
+   "id": "f2baba3320841a917e10",
+   "title": "A word becomes a sound",
+   "artist": "Kate Bollinger",
+   "duration": 218.182,
+   "source": "https://katebollinger.bandcamp.com/track/a-word-becomes-a-sound"
+  },
+  "2cbf5c7b2a0b819ab026": {
+   "id": "2cbf5c7b2a0b819ab026",
+   "title": "Queen To Nobody",
+   "artist": "Kate Bollinger",
+   "duration": 152.5,
+   "source": "https://katebollinger.bandcamp.com/track/queen-to-nobody"
+  },
+  "bb8a6f5d32541f9ae5b0": {
+   "id": "bb8a6f5d32541f9ae5b0",
+   "title": "No Other Like You",
+   "artist": "Kate Bollinger",
+   "duration": 208.341,
+   "source": "https://katebollinger.bandcamp.com/track/no-other-like-you"
+  },
+  "4fc29f298b5d1a3e5f15": {
+   "id": "4fc29f298b5d1a3e5f15",
+   "title": "Talk About It (B-Side)",
+   "artist": "Kate Bollinger",
+   "duration": 125.152,
+   "source": "https://katebollinger.bandcamp.com/track/talk-about-it-b-side"
+  },
+  "2b56cff80989286c7ca3": {
+   "id": "2b56cff80989286c7ca3",
+   "title": "Untitled",
+   "artist": "Kate Bollinger",
+   "duration": 179.5,
+   "source": "https://katebollinger.bandcamp.com/track/untitled"
+  },
+  "8bbfb280d7e8b69400b7": {
+   "id": "8bbfb280d7e8b69400b7",
+   "title": "Candy",
+   "artist": "Kate Bollinger",
+   "duration": 231.424,
+   "source": "https://katebollinger.bandcamp.com/track/candy"
+  },
+  "7dc06ee0dc921224bf21": {
+   "id": "7dc06ee0dc921224bf21",
+   "title": "I Don't Wanna Lose",
+   "artist": "Kate Bollinger",
+   "duration": 200.828,
+   "source": "https://katebollinger.bandcamp.com/track/i-dont-wanna-lose"
+  },
+  "8953b3458fd6f1e6b961": {
+   "id": "8953b3458fd6f1e6b961",
+   "title": "Je Rêverai à Toi",
+   "artist": "Kate Bollinger",
+   "duration": 147.969,
+   "source": "https://katebollinger.bandcamp.com/track/je-r-verai-toi"
+  },
+  "3bb15e66cd3939abaa42": {
+   "id": "3bb15e66cd3939abaa42",
+   "title": "Talk About It",
+   "artist": "Kate Bollinger",
+   "duration": 132.096,
+   "source": "https://katebollinger.bandcamp.com/track/talk-about-it"
+  },
+  "6c4c5f1e2971022cf42a": {
+   "id": "6c4c5f1e2971022cf42a",
+   "title": "Tests",
+   "artist": "Kate Bollinger",
+   "duration": 189.298,
+   "source": "https://katebollinger.bandcamp.com/track/tests"
+  },
+  "daacdf4d34a7b0a4b473": {
+   "id": "daacdf4d34a7b0a4b473",
+   "title": "do u go out together?",
+   "artist": "Kate Bollinger",
+   "duration": 114.904,
+   "source": "https://katebollinger.bandcamp.com/track/do-u-go-out-together"
+  },
+  "d7c77c6427c1f8927bec": {
+   "id": "d7c77c6427c1f8927bec",
+   "title": "Softer",
+   "artist": "Kate Bollinger",
+   "duration": 223.495,
+   "source": "https://katebollinger.bandcamp.com/track/softer"
+  },
+  "120523e8743d80b98b38": {
+   "id": "120523e8743d80b98b38",
+   "title": "I Wanna Be There",
+   "artist": "Kate Bollinger",
+   "duration": 173.917,
+   "source": "https://katebollinger.bandcamp.com/track/i-wanna-be-there"
+  },
+  "f6e8b85662d4fe412942": {
+   "id": "f6e8b85662d4fe412942",
+   "title": "Dreams Before",
+   "artist": "Kate Bollinger",
+   "duration": 183.75,
+   "source": "https://katebollinger.bandcamp.com/track/dreams-before-2"
+  },
+  "a1702dcbc73850c692fb": {
+   "id": "a1702dcbc73850c692fb",
+   "title": "A Couple Things (2018 version)",
+   "artist": "Kate Bollinger",
+   "duration": 184.239,
+   "source": "https://katebollinger.bandcamp.com/track/a-couple-things-2"
+  },
+  "79ad9772930e5c925b5b": {
+   "id": "79ad9772930e5c925b5b",
+   "title": "Ardent [Single]",
+   "artist": "Kate Bollinger",
+   "duration": 250.684,
+   "source": "https://katebollinger.bandcamp.com/track/ardent-single"
+  },
+  "f69f0fa02884da88a5ef": {
+   "id": "f69f0fa02884da88a5ef",
+   "title": "Change",
+   "artist": "Kate Bollinger",
+   "duration": 297.958,
+   "source": "https://katebollinger.bandcamp.com/track/change"
+  },
+  "a678dc919d3a6ac575b3": {
+   "id": "a678dc919d3a6ac575b3",
+   "title": "Down",
+   "artist": "Kate Bollinger",
+   "duration": 102.223,
+   "source": "https://katebollinger.bandcamp.com/track/down"
+  },
+  "3cc3e4ad48ffba394a17": {
+   "id": "3cc3e4ad48ffba394a17",
+   "title": "Zoe",
+   "artist": "Kate Bollinger",
+   "duration": 181.773,
+   "source": "https://katebollinger.bandcamp.com/track/zoe"
+  },
+  "1757e5c65bb0f5d0bf00": {
+   "id": "1757e5c65bb0f5d0bf00",
+   "title": "Nest on a Rooftop",
+   "artist": "Kate Bollinger",
+   "duration": 166.747,
+   "source": "https://katebollinger.bandcamp.com/track/nest-on-a-rooftop"
+  },
+  "89b91ef9e6ff7d0377e6": {
+   "id": "89b91ef9e6ff7d0377e6",
+   "title": "Belong To You (feat. Kate Bollinger)",
+   "artist": "Cut Copy",
+   "duration": 270.549,
+   "source": "https://music.apple.com/us/album/belong-to-you-feat-kate-bollinger/1834039677?i=1834039678&uo=4"
+  },
+  "f53a37fff1b16ab78e76": {
+   "id": "f53a37fff1b16ab78e76",
+   "title": "I'm Not Around (feat. Kate Bollinger)",
+   "artist": "Pax",
+   "duration": 180.724,
+   "source": "https://music.apple.com/us/album/im-not-around-feat-kate-bollinger/1514269215?i=1514269218&uo=4"
+  },
+  "797a8b63f02b26366b2b": {
+   "id": "797a8b63f02b26366b2b",
+   "title": "What Can I Give You",
+   "artist": "Kate Bollinger",
+   "duration": 145.157,
+   "source": "https://music.apple.com/us/album/what-can-i-give-you/1768529755?i=1768529756&uo=4"
+  },
+  "5127349c2e82c6afadd2": {
+   "id": "5127349c2e82c6afadd2",
+   "title": "Pictures of You",
+   "artist": "Drugdealer & Kate Bollinger",
+   "duration": 189.467,
+   "source": "https://music.apple.com/us/album/pictures-of-you/1775725625?i=1775725896&uo=4"
+  },
+  "1b6829553f44861e2e56": {
+   "id": "1b6829553f44861e2e56",
+   "title": "Someone to Love",
+   "artist": "Drugdealer",
+   "duration": 236.667,
+   "source": "https://music.apple.com/us/album/someone-to-love/1775725625?i=1775726001&uo=4"
+  },
+  "487687091b98869dfb0c": {
+   "id": "487687091b98869dfb0c",
+   "title": "Madison",
+   "artist": "Drugdealer",
+   "duration": 222.573,
+   "source": "https://music.apple.com/us/album/madison/1775725625?i=1775726063&uo=4"
+  },
+  "13d6caff38e70048a83c": {
+   "id": "13d6caff38e70048a83c",
+   "title": "You Are Mine In Those Golden Days (Cover)",
+   "artist": "Kate Bollinger",
+   "duration": 209.493,
+   "source": "https://music.apple.com/us/album/you-are-mine-in-those-golden-days-cover/1867837969?i=1867837977&uo=4"
+  },
+  "15af1546306d45b39c0a": {
+   "id": "15af1546306d45b39c0a",
+   "title": "You Are Mine In Those Golden Days",
+   "artist": "Cathy Hamer",
+   "duration": 155.2,
+   "source": "https://music.apple.com/us/album/you-are-mine-in-those-golden-days/1867837969?i=1867838043&uo=4"
+  },
+  "1634deb4a2ad950b5813": {
+   "id": "1634deb4a2ad950b5813",
+   "title": "Weight (feat. Kate Bollinger)",
+   "artist": "PBD",
+   "duration": 160,
+   "source": "https://music.apple.com/us/album/weight-feat-kate-bollinger/1446792436?i=1446792439&uo=4"
+  },
+  "21a0931263d3008014ef": {
+   "id": "21a0931263d3008014ef",
+   "title": "Gone (Cover)",
+   "artist": "Kate Bollinger",
+   "duration": 206.3,
+   "source": "https://music.apple.com/us/album/gone-cover/1876894583?i=1876894584&uo=4"
+  },
+  "a72395ad4d20cc4bda43": {
+   "id": "a72395ad4d20cc4bda43",
+   "title": "Gone",
+   "artist": "Cathy Hamer",
+   "duration": 159.627,
+   "source": "https://music.apple.com/us/album/gone/1876894583?i=1876894587&uo=4"
+  },
+  "674dd48ae394d35f77b7": {
+   "id": "674dd48ae394d35f77b7",
+   "title": "Water",
+   "artist": "Kate Bollinger",
+   "duration": 176.649,
+   "source": "https://music.apple.com/us/album/water/6767690704?i=6767690706&uo=4"
+  },
+  "fb06d8fb3136ee431e49": {
+   "id": "fb06d8fb3136ee431e49",
+   "title": "OBO (feat. Kate Bollinger)",
+   "artist": "Paul Cherry",
+   "duration": 162.96,
+   "source": "https://music.apple.com/us/album/obo-feat-kate-bollinger/1840253810?i=1840253811&uo=4"
+  },
+  "5ff2826d76cb3f751f96": {
+   "id": "5ff2826d76cb3f751f96",
+   "title": "Playroom (feat. Kate Bollinger)",
+   "artist": "Paul Cherry",
+   "duration": 142.88,
+   "source": "https://music.apple.com/us/album/playroom-feat-kate-bollinger/1840253810?i=1840253812&uo=4"
+  }
+ }
+}
