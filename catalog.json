@@ -7,9 +7,833 @@
    "image": "covers/artist-kate-bollinger.jpg",
    "addedAt": "2026-10-12",
    "imageSource": "https://f4.bcbits.com/img/0046962173_21.jpg"
+  },
+  {
+   "id": "joji",
+   "name": "Joji",
+   "source": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174b6d7836808e8b99fc8c7aadc"
+  },
+  {
+   "id": "adam-green",
+   "name": "Adam Green",
+   "source": "https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174615d26cb73ecd63546b93eed"
+  },
+  {
+   "id": "by-storm",
+   "name": "By Storm",
+   "source": "https://open.spotify.com/artist/1YUIjQ3ugjokiyb908LpVO",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174525f1b2f65c4cc7c35757793"
+  },
+  {
+   "id": "injury-reserve",
+   "name": "Injury Reserve",
+   "source": "https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051742a8b5966bf18ebc260d6f697"
+  },
+  {
+   "id": "j-cole",
+   "name": "J. Cole",
+   "source": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174c401ea77e86ee984b1ba9fc2"
+  },
+  {
+   "id": "quadeca",
+   "name": "Quadeca",
+   "source": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051741eee118b4a489ddd3de9f47b"
+  },
+  {
+   "id": "puma-blue",
+   "name": "Puma Blue",
+   "source": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051740b676222e49056ce9b91cf2a"
+  },
+  {
+   "id": "a-ap-rocky",
+   "name": "A$AP Rocky",
+   "source": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174ad160b333f9a240f84aff7d7"
+  },
+  {
+   "id": "kanye-west",
+   "name": "Kanye West",
+   "source": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a"
+  },
+  {
+   "id": "omega-sapien",
+   "name": "Omega Sapien",
+   "source": "https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab6761610000517409583419beb954de37d9185a"
+  },
+  {
+   "id": "campus-christy",
+   "name": "Campus Christy",
+   "source": "https://open.spotify.com/artist/5aI67LLOxQSx90XTAuljTP",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051748818e145966f1be479619035"
+  },
+  {
+   "id": "chris-manak",
+   "name": "Chris Manak",
+   "source": "https://open.spotify.com/artist/0npX9cd4ZLrZTt5wgwzREd",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616d00001e02ab54eca7d8284fcdb4596dea"
+  },
+  {
+   "id": "brian-ellis",
+   "name": "Brian Ellis",
+   "source": "https://open.spotify.com/artist/0oP5sLCzQvtRCwiI6RntiN",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616d00001e02b8948967272e00affddf7555"
+  },
+  {
+   "id": "brent-faiyaz",
+   "name": "Brent Faiyaz",
+   "source": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174582fbf712f5b6a9bf65d9b84"
+  },
+  {
+   "id": "charli-xcx",
+   "name": "Charli xcx",
+   "source": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051746fa76436a2bba83b9f1d6fd1"
+  },
+  {
+   "id": "ash-leone",
+   "name": "Ash Leone",
+   "source": "https://open.spotify.com/artist/434AIs2qYptNr3FFegjQaK",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab6761610000517402a8957850d5ae8ae34ac70d"
+  },
+  {
+   "id": "benny-sings",
+   "name": "Benny Sings",
+   "source": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174930f021f5647364fb4e8692e"
+  },
+  {
+   "id": "jill-scott",
+   "name": "Jill Scott",
+   "source": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051748e4a7af66dab0223072a3386"
+  },
+  {
+   "id": "baby-keem",
+   "name": "Baby Keem",
+   "source": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174e45a6e4cee2ef5f4c0fec713"
+  },
+  {
+   "id": "phoebe-rings",
+   "name": "Phoebe Rings",
+   "source": "https://open.spotify.com/artist/6bU6vdMpAqDEoWsj8iUNEf",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab6761610000517416155841ac32d8b68a018270"
+  },
+  {
+   "id": "bruno-mars",
+   "name": "Bruno Mars",
+   "source": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174c7688aad1bf03986934d7e26"
+  },
+  {
+   "id": "automatic",
+   "name": "Automatic",
+   "source": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174337e86e457beb03d4fd266d4"
+  },
+  {
+   "id": "slayr",
+   "name": "slayr",
+   "source": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174c9af537b072eccabc79257dc"
+  },
+  {
+   "id": "the-poles",
+   "name": "The Poles",
+   "source": "https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051742b9a877451b4bb74b01d2ea0"
+  },
+  {
+   "id": "apifera",
+   "name": "Apifera",
+   "source": "https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174d419f44f970cd0f345ea1eab"
+  },
+  {
+   "id": "flawed-mangoes",
+   "name": "Flawed Mangoes",
+   "source": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab6761610000517414bdfcdaa4e13c65d7859a5c"
+  },
+  {
+   "id": "beabadoobee",
+   "name": "beabadoobee",
+   "source": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051743a41a62e7193703d29d30a9a"
+  },
+  {
+   "id": "phony-ppl",
+   "name": "Phony Ppl",
+   "source": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174b658dcfdfcaf59488eabcdc2"
+  },
+  {
+   "id": "kid-milli",
+   "name": "Kid Milli",
+   "source": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174f132a47755eeab007a292a3f"
+  },
+  {
+   "id": "mika",
+   "name": "MIKA",
+   "source": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174b1902d6814cf6a19da60163e"
+  },
+  {
+   "id": "legit-goons",
+   "name": "Legit Goons",
+   "source": "https://open.spotify.com/artist/4HwHRZI8xz6Zy9vOksqw7R",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174ae70328b2c6ea1fb063d3e0a"
+  },
+  {
+   "id": "don-toliver",
+   "name": "Don Toliver",
+   "source": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174c52b798deb89eb8414a51b7b"
+  },
+  {
+   "id": "underscores",
+   "name": "underscores",
+   "source": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174de8dfaf8e64fee65ef479e68"
+  },
+  {
+   "id": "fetty-wap",
+   "name": "Fetty Wap",
+   "source": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174f6df2e78223259e7d425b1ee"
+  },
+  {
+   "id": "james-blake",
+   "name": "James Blake",
+   "source": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174eea5ea7752893d8898dbd163"
+  },
+  {
+   "id": "thee-sacred-souls",
+   "name": "Thee Sacred Souls",
+   "source": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051741a99219498d5119b0e742b19"
+  },
+  {
+   "id": "cameron-winter",
+   "name": "Cameron Winter",
+   "source": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab6761610000517470fea1b7a7a5c70c895109dc"
+  },
+  {
+   "id": "geese",
+   "name": "Geese",
+   "source": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d"
+  },
+  {
+   "id": "huijun-woo",
+   "name": "huijun woo",
+   "source": "https://open.spotify.com/artist/0QPwpwjMdM0lU9NPmmqyEK",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174708fc4b483e0d8c7e5e33ff6"
+  },
+  {
+   "id": "flyingfish",
+   "name": "flyingfish",
+   "source": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174f8ecb51ffd078a1dcfbddd34"
+  },
+  {
+   "id": "tom-misch",
+   "name": "Tom Misch",
+   "source": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174d13583bc1c845d1fedbe059f"
+  },
+  {
+   "id": "thundercat",
+   "name": "Thundercat",
+   "source": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051746941830307896269157f7dd4"
+  },
+  {
+   "id": "zach-bryan",
+   "name": "Zach Bryan",
+   "source": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051746492861f8e00ecfb8cabea3f"
+  },
+  {
+   "id": "megadeth",
+   "name": "Megadeth",
+   "source": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174d5233fdc8cad84de5b366f1b"
+  },
+  {
+   "id": "sp-607e1j0ovx9hpfgrqrl3tc",
+   "name": "んoon",
+   "source": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616d00001e023bb21e980c3d956ed92b8315"
+  },
+  {
+   "id": "virtual-riot",
+   "name": "Virtual Riot",
+   "source": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174f02c148a51fb4b5923d0f6d9"
+  },
+  {
+   "id": "angela-munoz",
+   "name": "Angela Muñoz",
+   "source": "https://open.spotify.com/artist/0LYpHdjPJEKhjh3euGHngh",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174c7b5a940acff41ab81c3ccca"
+  },
+  {
+   "id": "adrian-younge",
+   "name": "Adrian Younge",
+   "source": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174127f8c83e7447023498d4df5"
+  },
+  {
+   "id": "hyelyn-joo",
+   "name": "Hyelyn Joo",
+   "source": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174bd67680042c63e28be73367a"
+  },
+  {
+   "id": "ryuichi-sakamoto",
+   "name": "Ryuichi Sakamoto",
+   "source": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174323c73cb431edf7ba9ed34b2"
+  },
+  {
+   "id": "finneas-o-connell",
+   "name": "Finneas O'Connell",
+   "source": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab6772690000bac30e1ccd25ffc4cc552f933d17"
+  },
+  {
+   "id": "little-simz",
+   "name": "Little Simz",
+   "source": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174a22264dfbad2d96ffc6ee2e0"
+  },
+  {
+   "id": "lady-gaga",
+   "name": "Lady Gaga",
+   "source": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174aadc18cac8d48124357c38e6"
+  },
+  {
+   "id": "doechii",
+   "name": "Doechii",
+   "source": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174ca2fee52c41d3f58ceb6474b"
+  },
+  {
+   "id": "sienna-spiro",
+   "name": "SIENNA SPIRO",
+   "source": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174fb0ab819bbd4502028cd1feb"
+  },
+  {
+   "id": "woo",
+   "name": "Woo",
+   "source": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174c6d18bfd181b078ba9760653"
+  },
+  {
+   "id": "beach-house",
+   "name": "Beach House",
+   "source": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174b3e38a46a56a423d8f741c09"
+  },
+  {
+   "id": "keith-jarrett",
+   "name": "Keith Jarrett",
+   "source": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051748757d081b1451ea9415230cb"
+  },
+  {
+   "id": "broadcast",
+   "name": "Broadcast",
+   "source": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174a75b0d24a56b137585130123"
+  },
+  {
+   "id": "mazzy-star",
+   "name": "Mazzy Star",
+   "source": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051740d2c80ce808454e642e849e6"
+  },
+  {
+   "id": "chris-brown",
+   "name": "Chris Brown",
+   "source": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174913ab85302df0ddfb77131e9"
+  },
+  {
+   "id": "bill-stax",
+   "name": "BILL STAX",
+   "source": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174ccdcaea752636aab7b2964f3"
+  },
+  {
+   "id": "galaxie-500",
+   "name": "Galaxie 500",
+   "source": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174efd9a324798d368dde6ec5ef"
+  },
+  {
+   "id": "kim-oki",
+   "name": "Kim Oki",
+   "source": "https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051740304a722419dbeef1d3f675c"
+  },
+  {
+   "id": "cocteau-twins",
+   "name": "Cocteau Twins",
+   "source": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab6761610000517400f01cecce8a4475c3de0998"
+  },
+  {
+   "id": "laufey",
+   "name": "Laufey",
+   "source": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174c751deb23ed62e7cadfb669a"
+  },
+  {
+   "id": "skrillex",
+   "name": "Skrillex",
+   "source": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab6761610000517409a2575e4cfa8af8bce207d1"
+  },
+  {
+   "id": "vince-staples",
+   "name": "Vince Staples",
+   "source": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174d90bf111a0acbcb98fc6569d"
+  },
+  {
+   "id": "boards-of-canada",
+   "name": "Boards of Canada",
+   "source": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051748d582d93756e158b968cc35d"
+  },
+  {
+   "id": "jpegmafia",
+   "name": "JPEGMAFIA",
+   "source": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174b37aa35eec6d83fe18e48e73"
+  },
+  {
+   "id": "mgk",
+   "name": "mgk",
+   "source": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab6761610000517485e7615a199f8b17fabfcd61"
+  },
+  {
+   "id": "wiz-khalifa",
+   "name": "Wiz Khalifa",
+   "source": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174c66b0a8c3268f0b6556f64a8"
+  },
+  {
+   "id": "drake",
+   "name": "Drake",
+   "source": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051744293385d324db8558179afd9"
+  },
+  {
+   "id": "brian-wilson",
+   "name": "Brian Wilson",
+   "source": "https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/6dd5f92272c4c2f7c5b0a8f68b8cb576c461ea30"
+  },
+  {
+   "id": "van-dyke-parks",
+   "name": "Van Dyke Parks",
+   "source": "https://open.spotify.com/artist/3M8NUieZuEOMs0Hf210w4n",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/afdbb525d542e04e3c6d62ffec2bb193f2f47fea"
+  },
+  {
+   "id": "balming-tiger",
+   "name": "Balming Tiger",
+   "source": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051743a05f13755a874e89ee695b7"
+  },
+  {
+   "id": "wisp",
+   "name": "Wisp",
+   "source": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051743c452fd195cec342b58a3eea"
+  },
+  {
+   "id": "freddie-gibbs",
+   "name": "Freddie Gibbs",
+   "source": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174499def7bd0369aa26a22273c"
+  },
+  {
+   "id": "sweeping-promises",
+   "name": "Sweeping Promises",
+   "source": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174b8687200efcf8975aedf301e"
+  },
+  {
+   "id": "yg",
+   "name": "YG",
+   "source": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051742cb068e9e3864fab73592dca"
+  },
+  {
+   "id": "devin-morrison",
+   "name": "Devin Morrison",
+   "source": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174b5dc5af6b8a230b13c89db30"
+  },
+  {
+   "id": "olivia-rodrigo",
+   "name": "Olivia Rodrigo",
+   "source": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174b14eb4dcfd2f3858bed06e44"
+  },
+  {
+   "id": "paris-texas",
+   "name": "Paris Texas",
+   "source": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174cd4785b475935db2fdb9915d"
+  },
+  {
+   "id": "tierra-whack",
+   "name": "Tierra Whack",
+   "source": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab6761610000517441c97b9ebb64c239c0f01598"
+  },
+  {
+   "id": "future",
+   "name": "Future",
+   "source": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051742c472c891062acb4f3068583"
+  },
+  {
+   "id": "nia-archives",
+   "name": "Nia Archives",
+   "source": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174cc819c191667d9b2f775a9e8"
+  },
+  {
+   "id": "m-i-a",
+   "name": "M.I.A.",
+   "source": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab6761610000517408e45eab541fbffd3e657f02"
+  },
+  {
+   "id": "fred-again",
+   "name": "Fred again..",
+   "source": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174f760292919aee89e58d943d9"
+  },
+  {
+   "id": "latin-mafia",
+   "name": "LATIN MAFIA",
+   "source": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051748abe977d17e650d4fa2ec093"
+  },
+  {
+   "id": "syd",
+   "name": "Syd",
+   "source": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174097f28ca7a5e04d5e44bb334"
+  },
+  {
+   "id": "sumin",
+   "name": "SUMIN",
+   "source": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051747c8a6f898403fed58aa8172b"
+  },
+  {
+   "id": "joseph-solomon",
+   "name": "Joseph Solomon",
+   "source": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174d0fe8cb2350576f5d014ac53"
+  },
+  {
+   "id": "lim-kim",
+   "name": "LIM KIM",
+   "source": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174045604e8b8f6954fe9a27403"
+  },
+  {
+   "id": "steve-lacy",
+   "name": "Steve Lacy",
+   "source": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051747e3150cffbfda40c6eaf28dd"
+  },
+  {
+   "id": "silica-gel",
+   "name": "Silica Gel",
+   "source": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab6761610000517413400fbc8e055088b5acf81b"
+  },
+  {
+   "id": "denzel-curry",
+   "name": "Denzel Curry",
+   "source": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab676161000051748e265da892579da2139b659f"
+  },
+  {
+   "id": "kenny-beats",
+   "name": "Kenny Beats",
+   "source": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174ae4a51ded0c9a8b75278f5eb"
+  },
+  {
+   "id": "force-of-nature",
+   "name": "FORCE OF NATURE",
+   "source": "https://open.spotify.com/artist/6GZBcmD8W4x2sF37coZFEK",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616d00001e02712a044de6282fcf1e42202b"
+  },
+  {
+   "id": "nafla",
+   "name": "nafla",
+   "source": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174efc8b150051b628cc80d282e"
+  },
+  {
+   "id": "hank-crawford",
+   "name": "Hank Crawford",
+   "source": "https://open.spotify.com/artist/543js1lXeFxJKXqxC6XgT7",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/0c2d4c8eca8660ee557c65706e297fdceb8cd479"
+  },
+  {
+   "id": "mouse-on-the-keys",
+   "name": "mouse on the keys",
+   "source": "https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616d00001e02aec2ea1e2ac94bdcd9134f36"
+  },
+  {
+   "id": "kim-ximya",
+   "name": "Kim Ximya",
+   "source": "https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab6761610000517439e4fe6af76f3698b01972d2"
+  },
+  {
+   "id": "public-enemy",
+   "name": "Public Enemy",
+   "source": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd",
+   "image": "",
+   "addedAt": "2026-10-21",
+   "imageSource": "https://i.scdn.co/image/ab67616100005174bec3cbe75ac982c675655e88"
   }
  ],
- "updatedAt": "2026-10-12",
+ "updatedAt": "2026-10-21",
  "releases": [
   {
    "id": "bc-shop-girl",
@@ -574,6 +1398,1548 @@
     "1757e5c65bb0f5d0bf00"
    ],
    "coverSource": "https://f4.bcbits.com/img/a2360336156_5.jpg"
+  },
+  {
+   "id": "sp-7GToxH8az0ztPfYCeOAqij",
+   "collections": [
+    "chris-brown"
+   ],
+   "title": "BROWN",
+   "artist": "Chris Brown",
+   "type": "정규",
+   "date": "2026-05-08",
+   "cover": "",
+   "source": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e024b28d4d23dc56dc3ceda4b5d"
+  },
+  {
+   "id": "sp-2ubP3MUtDQ1kkHiuzzYg88",
+   "collections": [
+    "omega-sapien"
+   ],
+   "title": "Leader",
+   "artist": "Omega Sapien",
+   "type": "정규",
+   "date": "2026-02-12",
+   "cover": "",
+   "source": "https://open.spotify.com/album/2ubP3MUtDQ1kkHiuzzYg88",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e0293103c9cd5868a9d4c5599bc"
+  },
+  {
+   "id": "sp-3CHydLWaSOXR2aM4q8Hqqr",
+   "collections": [
+    "kid-milli"
+   ],
+   "title": "LOVESICK",
+   "artist": "Kid Milli",
+   "type": "정규",
+   "date": "2026-03-27",
+   "cover": "",
+   "source": "https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e028ede7bd2c4f85e02373d15b0"
+  },
+  {
+   "id": "sp-7MLyEn1CPizpS8bjZ7zzrT",
+   "collections": [
+    "joji"
+   ],
+   "title": "Piss In The Wind",
+   "artist": "Joji",
+   "type": "정규",
+   "date": "2026-02-06",
+   "cover": "",
+   "source": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e0204316985c2c333c86874dad3"
+  },
+  {
+   "id": "sp-2h6YTeHoozQEaXrxMXcpBT",
+   "collections": [
+    "mika"
+   ],
+   "title": "Hyperlove",
+   "artist": "MIKA",
+   "type": "정규",
+   "date": "2026-01-23",
+   "cover": "",
+   "source": "https://open.spotify.com/album/2h6YTeHoozQEaXrxMXcpBT",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e021fd9621dbd54b211b54bb0c8"
+  },
+  {
+   "id": "sp-3y9ho86K2n12FPdMV4pU7U",
+   "collections": [
+    "tom-misch"
+   ],
+   "title": "Full Circle",
+   "artist": "Tom Misch",
+   "type": "정규",
+   "date": "2026-03-27",
+   "cover": "",
+   "source": "https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e0258573177b0e8c26a80f731a2"
+  },
+  {
+   "id": "sp-13mzaP36Yzh7W4yxH9xrqs",
+   "collections": [
+    "legit-goons"
+   ],
+   "title": "PUNK",
+   "artist": "Legit Goons",
+   "type": "정규",
+   "date": "2026-03-26",
+   "cover": "",
+   "source": "https://open.spotify.com/album/13mzaP36Yzh7W4yxH9xrqs",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02bdb74cadf98348937ec07009"
+  },
+  {
+   "id": "sp-78fAR643ERwtQcNIwo7p77",
+   "collections": [
+    "adam-green"
+   ],
+   "title": "Chop off Heads With Me",
+   "artist": "Adam Green",
+   "type": "정규",
+   "date": "2026-01-22",
+   "cover": "",
+   "source": "https://open.spotify.com/album/78fAR643ERwtQcNIwo7p77",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02338a2826bf9325b534f9b57b"
+  },
+  {
+   "id": "sp-7vI4iTxDmgEN63liQHPEX1",
+   "collections": [
+    "bruno-mars"
+   ],
+   "title": "The Romantic",
+   "artist": "Bruno Mars",
+   "type": "정규",
+   "date": "2026-02-27",
+   "cover": "",
+   "source": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e023eb8dc748f7efb1470f74395"
+  },
+  {
+   "id": "sp-1CJBeo8t68wKcsvN4QRuLI",
+   "collections": [
+    "little-simz"
+   ],
+   "title": "Sugar Girl",
+   "artist": "Little Simz",
+   "type": "EP",
+   "date": "2026-05-08",
+   "cover": "",
+   "source": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e027b530fdc46f8954a80e83e84"
+  },
+  {
+   "id": "sp-131x9G87mD0hP0hGZc9qYN",
+   "collections": [
+    "don-toliver"
+   ],
+   "title": "OCTANE",
+   "artist": "Don Toliver",
+   "type": "정규",
+   "date": "2026-01-30",
+   "cover": "",
+   "source": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e0225c28f3c9fbdbab1a88dd619"
+  },
+  {
+   "id": "sp-1qSS0T6Ffrb3rFVpizzOuk",
+   "collections": [
+    "underscores"
+   ],
+   "title": "U",
+   "artist": "underscores",
+   "type": "정규",
+   "date": "2026-03-20",
+   "cover": "",
+   "source": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02cab898cdda3ee7d1e9b25646"
+  },
+  {
+   "id": "sp-5ZcuJ1sGBS0tl32RnHUNx1",
+   "collections": [
+    "fetty-wap"
+   ],
+   "title": "Zavier",
+   "artist": "Fetty Wap",
+   "type": "정규",
+   "date": "2026-03-27",
+   "cover": "",
+   "source": "https://open.spotify.com/album/5ZcuJ1sGBS0tl32RnHUNx1",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02e357a99b579490811309ff8e"
+  },
+  {
+   "id": "sp-3D3S3TbKudDzd7sM0b778J",
+   "collections": [
+    "automatic"
+   ],
+   "title": "Excess",
+   "artist": "Automatic",
+   "type": "정규",
+   "date": "2022-06-24",
+   "cover": "",
+   "source": "https://open.spotify.com/album/3D3S3TbKudDzd7sM0b778J",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e028790e5214fa78c0703adafc5"
+  },
+  {
+   "id": "sp-0mu3EvWYfNwBfISSg0q03p",
+   "collections": [
+    "boards-of-canada"
+   ],
+   "title": "Inferno",
+   "artist": "Boards of Canada",
+   "type": "정규",
+   "date": "2026-05-29",
+   "cover": "",
+   "source": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02c0588d9dcd8bd9e7a7845844"
+  },
+  {
+   "id": "sp-3PVx0nf16eZmTOiTu33UaK",
+   "collections": [
+    "by-storm",
+    "injury-reserve"
+   ],
+   "title": "My Ghosts Go Ghost",
+   "artist": "By Storm, Injury Reserve",
+   "type": "정규",
+   "date": "2026-01-30",
+   "cover": "",
+   "source": "https://open.spotify.com/album/3PVx0nf16eZmTOiTu33UaK",
+   "collaboration": true,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e024809455af0038a74f82459ae"
+  },
+  {
+   "id": "sp-5LmWpQ3tnLtX0kOm2SxB22",
+   "collections": [
+    "jpegmafia"
+   ],
+   "title": "EXPERIMENTAL RAP",
+   "artist": "JPEGMAFIA",
+   "type": "정규",
+   "date": "2026-05-21",
+   "cover": "",
+   "source": "https://open.spotify.com/album/5LmWpQ3tnLtX0kOm2SxB22",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e0273fe8f78133608dee4f3a5bd"
+  },
+  {
+   "id": "sp-1MjbVCreOaE7j2f9gQG1dR",
+   "collections": [
+    "bill-stax"
+   ],
+   "title": "LIVE FAST DIE SKRT",
+   "artist": "BILL STAX",
+   "type": "정규",
+   "date": "2026-04-20",
+   "cover": "",
+   "source": "https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e022be0195959b10aa67eae92b3"
+  },
+  {
+   "id": "sp-0pFlE0rc68RS8f3UHzioQY",
+   "collections": [
+    "future"
+   ],
+   "title": "The Real Me",
+   "artist": "Future",
+   "type": "정규",
+   "date": "2026-07-10",
+   "cover": "",
+   "source": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02df594136a4d46f1347159c21"
+  },
+  {
+   "id": "sp-2LryMcusFgY0edlYwJDIqj",
+   "collections": [
+    "slayr"
+   ],
+   "title": "Half Blood (BloodLuxe)",
+   "artist": "slayr",
+   "type": "정규",
+   "date": "2026-03-06",
+   "cover": "",
+   "source": "https://open.spotify.com/album/2LryMcusFgY0edlYwJDIqj",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02062f9b3af7c96bca8fb13466"
+  },
+  {
+   "id": "sp-0luMDIjG1HiinBas3na7vc",
+   "collections": [
+    "mgk",
+    "wiz-khalifa"
+   ],
+   "title": "blog era boyz",
+   "artist": "mgk, Wiz Khalifa",
+   "type": "정규",
+   "date": "2026-05-22",
+   "cover": "",
+   "source": "https://open.spotify.com/album/0luMDIjG1HiinBas3na7vc",
+   "collaboration": true,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e025aa5e59454d045f3c841f56e"
+  },
+  {
+   "id": "sp-1qhNLXBmt1EW6Kwt2A3u8M",
+   "collections": [
+    "galaxie-500"
+   ],
+   "title": "On Fire",
+   "artist": "Galaxie 500",
+   "type": "정규",
+   "date": "1989-09-01",
+   "cover": "",
+   "source": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e026610d5c08e5b809ffb19b6d9"
+  },
+  {
+   "id": "sp-5q0iAwNwPXjXfatRJ2sdYs",
+   "collections": [
+    "the-poles"
+   ],
+   "title": "The High Tide Club",
+   "artist": "The Poles",
+   "type": "정규",
+   "date": "2022-01-15",
+   "cover": "",
+   "source": "https://open.spotify.com/album/5q0iAwNwPXjXfatRJ2sdYs",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02acda674910f3dd3d1820915d"
+  },
+  {
+   "id": "sp-4jI9SU1GmpIVhHMuYZuvX7",
+   "collections": [
+    "j-cole"
+   ],
+   "title": "The Fall-Off",
+   "artist": "J. Cole",
+   "type": "정규",
+   "date": "2026-02-06",
+   "cover": "",
+   "source": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e0280788f104c780412212e97e3"
+  },
+  {
+   "id": "sp-0OAv7DCME2AV4q1KPO95HY",
+   "collections": [
+    "drake"
+   ],
+   "title": "ICEMAN",
+   "artist": "Drake",
+   "type": "정규",
+   "date": "2026-05-15",
+   "cover": "",
+   "source": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02fe9d3ab9adb1d3b59835b81c"
+  },
+  {
+   "id": "sp-4DkVTJfU9qyNWKbjLoTENL",
+   "collections": [
+    "thundercat"
+   ],
+   "title": "Distracted",
+   "artist": "Thundercat",
+   "type": "정규",
+   "date": "2026-04-03",
+   "cover": "",
+   "source": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e025d6505356d39c9ec421d489b"
+  },
+  {
+   "id": "sp-16tV8wTfqPyA6Cu5dwJJPc",
+   "collections": [
+    "james-blake"
+   ],
+   "title": "Trying Times",
+   "artist": "James Blake",
+   "type": "정규",
+   "date": "2026-03-13",
+   "cover": "",
+   "source": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02884dd01508605dca727d8993"
+  },
+  {
+   "id": "sp-7uLIqmPNnfmBd92Tz1apN2",
+   "collections": [
+    "mouse-on-the-keys"
+   ],
+   "title": "an anxious object",
+   "artist": "mouse on the keys",
+   "type": "정규",
+   "date": "2009-01-01",
+   "cover": "",
+   "source": "https://open.spotify.com/album/7uLIqmPNnfmBd92Tz1apN2",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02dd43bf787c5e91e21d89d5a4"
+  },
+  {
+   "id": "sp-6xKnYHY00EbvxZAXYP0vhW",
+   "collections": [
+    "sumin"
+   ],
+   "title": "dinnermode",
+   "artist": "SUMIN",
+   "type": "정규",
+   "date": "2026-08-13",
+   "cover": "",
+   "source": "https://open.spotify.com/album/6xKnYHY00EbvxZAXYP0vhW",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e027563b1131404b98cb39b5026"
+  },
+  {
+   "id": "sp-6HzHon4QSFPGPFIjjlZN0n",
+   "collections": [
+    "yg"
+   ],
+   "title": "My Krazy Life",
+   "artist": "YG",
+   "type": "정규",
+   "date": "2014-03-18",
+   "cover": "",
+   "source": "https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02d5e1093f3b6f0a59114a4905"
+  },
+  {
+   "id": "sp-5poA9SAx0Xiz1cf17fWBLS",
+   "collections": [
+    "kanye-west"
+   ],
+   "title": "BULLY",
+   "artist": "Kanye West",
+   "type": "정규",
+   "date": "2026-03-28",
+   "cover": "",
+   "source": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e0295184f6a953569b683ca9a0d"
+  },
+  {
+   "id": "sp-5BuepklHvUdNviID5Dxwrg",
+   "collections": [
+    "apifera"
+   ],
+   "title": "Overstand",
+   "artist": "Apifera",
+   "type": "정규",
+   "date": "2021-01-15",
+   "cover": "",
+   "source": "https://open.spotify.com/album/5BuepklHvUdNviID5Dxwrg",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02627fde0a1124902382419696"
+  },
+  {
+   "id": "sp-1fnrwCqjG1x60wT7ixaYSK",
+   "collections": [
+    "flawed-mangoes"
+   ],
+   "title": "Afterlife",
+   "artist": "Flawed Mangoes",
+   "type": "정규",
+   "date": "2026-03-06",
+   "cover": "",
+   "source": "https://open.spotify.com/album/1fnrwCqjG1x60wT7ixaYSK",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e029341662b93e806aedf2cb14c"
+  },
+  {
+   "id": "sp-5HSUCEmAAFT1yl5GoGUnxa",
+   "collections": [
+    "benny-sings"
+   ],
+   "title": "Young Hearts",
+   "artist": "Benny Sings",
+   "type": "정규",
+   "date": "2023-03-24",
+   "cover": "",
+   "source": "https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e0228f3997c8649ba8505199a7e"
+  },
+  {
+   "id": "sp-5xQ1R1NUMoANjEoWMvis7F",
+   "collections": [
+    "benny-sings"
+   ],
+   "title": "Beat Tape II",
+   "artist": "Benny Sings",
+   "type": "정규",
+   "date": "2021-12-10",
+   "cover": "",
+   "source": "https://open.spotify.com/album/5xQ1R1NUMoANjEoWMvis7F",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e023b4664d87d3ed38018102dc8"
+  },
+  {
+   "id": "sp-2YOfG5UuXGuC8tDtBreSrv",
+   "collections": [
+    "huijun-woo"
+   ],
+   "title": "pumping of heart is torturing",
+   "artist": "huijun woo",
+   "type": "정규",
+   "date": "2025-04-17",
+   "cover": "",
+   "source": "https://open.spotify.com/album/2YOfG5UuXGuC8tDtBreSrv",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e027e749e712284342f7712b29e"
+  },
+  {
+   "id": "sp-3a1b2maWS8dV6SmPcEWz6B",
+   "collections": [
+    "kim-oki"
+   ],
+   "title": "Spirit Advance Unit",
+   "artist": "Kim Oki",
+   "type": "정규",
+   "date": "2019-07-06",
+   "cover": "",
+   "source": "https://open.spotify.com/album/3a1b2maWS8dV6SmPcEWz6B",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02d7a5401bf779cb6b79451b32"
+  },
+  {
+   "id": "sp-6Ww8zAvaNvHZ59jXamH2fj",
+   "collections": [
+    "apifera"
+   ],
+   "title": "Keep The Outside Open",
+   "artist": "Apifera",
+   "type": "정규",
+   "date": "2024-06-21",
+   "cover": "",
+   "source": "https://open.spotify.com/album/6Ww8zAvaNvHZ59jXamH2fj",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02abbe9de0cabfae19061179af"
+  },
+  {
+   "id": "sp-5WvKDb2MBThCYsSAUIlLqw",
+   "collections": [
+    "campus-christy",
+    "chris-manak",
+    "brian-ellis"
+   ],
+   "title": "Campus Christy",
+   "artist": "Campus Christy, Chris Manak, Brian Ellis",
+   "type": "정규",
+   "date": "2024-12-06",
+   "cover": "",
+   "source": "https://open.spotify.com/album/5WvKDb2MBThCYsSAUIlLqw",
+   "collaboration": true,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02582104fa3244a9aeb664a590"
+  },
+  {
+   "id": "sp-2N7usopPTbviM8qS4ObBWU",
+   "collections": [
+    "joseph-solomon"
+   ],
+   "title": "TERRA COTTA",
+   "artist": "Joseph Solomon",
+   "type": "정규",
+   "date": "2026-06-26",
+   "cover": "",
+   "source": "https://open.spotify.com/album/2N7usopPTbviM8qS4ObBWU",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e026604745419f4a7d7a6965ae5"
+  },
+  {
+   "id": "sp-4NvMwUFmY1dcDEgD8KoQjG",
+   "collections": [
+    "zach-bryan"
+   ],
+   "title": "With Heaven On Top",
+   "artist": "Zach Bryan",
+   "type": "정규",
+   "date": "2026-01-09",
+   "cover": "",
+   "source": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e026addb951ebfd51d72b42123f"
+  },
+  {
+   "id": "sp-475CNcvlqtRpaXjTcn4hCP",
+   "collections": [
+    "beabadoobee"
+   ],
+   "title": "Loveworm",
+   "artist": "beabadoobee",
+   "type": "정규",
+   "date": "2019-04-26",
+   "cover": "",
+   "source": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02ceca3ef39ab8f9b59acff394"
+  },
+  {
+   "id": "sp-0e7op6Ti7JKj5YpmUJw13H",
+   "collections": [
+    "phoebe-rings"
+   ],
+   "title": "Phoebe Rings",
+   "artist": "Phoebe Rings",
+   "type": "EP",
+   "date": "2024-10-18",
+   "cover": "",
+   "source": "https://open.spotify.com/album/0e7op6Ti7JKj5YpmUJw13H",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e021569b5fdfa55102342f4b5a4"
+  },
+  {
+   "id": "sp-5lEphbceIgaK1XxWeSrC9E",
+   "collections": [
+    "cocteau-twins"
+   ],
+   "title": "Heaven or Las Vegas",
+   "artist": "Cocteau Twins",
+   "type": "정규",
+   "date": "1990-01-01",
+   "cover": "",
+   "source": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02fe6211303e796f3d5b7a0e02"
+  },
+  {
+   "id": "sp-6ouAFvDtaYWB7PdGaRtJGq",
+   "collections": [
+    "megadeth"
+   ],
+   "title": "Megadeth",
+   "artist": "Megadeth",
+   "type": "정규",
+   "date": "2026-01-23",
+   "cover": "",
+   "source": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e029259659bd5b7332b9bfa8860"
+  },
+  {
+   "id": "sp-3NeqUTO2XQrszK99hIE5xb",
+   "collections": [
+    "force-of-nature"
+   ],
+   "title": "Force Of Nature",
+   "artist": "FORCE OF NATURE",
+   "type": "정규",
+   "date": "1974-03-22",
+   "cover": "",
+   "source": "https://open.spotify.com/album/3NeqUTO2XQrszK99hIE5xb",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02712a044de6282fcf1e42202b"
+  },
+  {
+   "id": "sp-6gKsEUBZoRuGNlPCIl6ZN7",
+   "collections": [
+    "ryuichi-sakamoto"
+   ],
+   "title": "Beckett (Music from the Netflix Film)",
+   "artist": "Ryuichi Sakamoto",
+   "type": "정규",
+   "date": "2021-08-13",
+   "cover": "",
+   "source": "https://open.spotify.com/album/6gKsEUBZoRuGNlPCIl6ZN7",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02a2ea188e08d70271773e95f1"
+  },
+  {
+   "id": "sp-0o3FMGOuT6cHjK6tjqAgJi",
+   "collections": [
+    "benny-sings"
+   ],
+   "title": "Music",
+   "artist": "Benny Sings",
+   "type": "정규",
+   "date": "2021-04-09",
+   "cover": "",
+   "source": "https://open.spotify.com/album/0o3FMGOuT6cHjK6tjqAgJi",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e025970bdc7a92b77398198fec1"
+  },
+  {
+   "id": "sp-4YOpO4iotuFawWYcUHvlYF",
+   "collections": [
+    "woo"
+   ],
+   "title": "mp3",
+   "artist": "Woo",
+   "type": "EP",
+   "date": "2026-04-14",
+   "cover": "",
+   "source": "https://open.spotify.com/album/4YOpO4iotuFawWYcUHvlYF",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02b5a15024a6f834752c04bd2b"
+  },
+  {
+   "id": "sp-4YEBMgKfdXZUHd8CUyhoSy",
+   "collections": [
+    "lim-kim"
+   ],
+   "title": "Exit to Nowhere",
+   "artist": "LIM KIM",
+   "type": "정규",
+   "date": "2026-07-22",
+   "cover": "",
+   "source": "https://open.spotify.com/album/4YEBMgKfdXZUHd8CUyhoSy",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e025fce530d5007ad165edf949a"
+  },
+  {
+   "id": "sp-3dl6vvWGcY36km1RCaQgSl",
+   "collections": [
+    "brian-wilson",
+    "van-dyke-parks"
+   ],
+   "title": "Orange Crate Art",
+   "artist": "Brian Wilson, Van Dyke Parks",
+   "type": "정규",
+   "date": "1995-01-01",
+   "cover": "",
+   "source": "https://open.spotify.com/album/3dl6vvWGcY36km1RCaQgSl",
+   "collaboration": true,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02547a230d7e5b93422de2636d"
+  },
+  {
+   "id": "sp-51AxfjN2gEt5qeJqPY5w0e",
+   "collections": [
+    "beach-house"
+   ],
+   "title": "Teen Dream",
+   "artist": "Beach House",
+   "type": "정규",
+   "date": "2010-01-26",
+   "cover": "",
+   "source": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e029ba6a1b973e91955ab23c50c"
+  },
+  {
+   "id": "sp-5FKnRUB5lt7z5ac1lmu3BE",
+   "collections": [
+    "lady-gaga",
+    "doechii",
+    "sienna-spiro"
+   ],
+   "title": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+   "artist": "Lady Gaga, Doechii, SIENNA SPIRO",
+   "type": "정규",
+   "date": "2026-05-01",
+   "cover": "",
+   "source": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE",
+   "collaboration": true,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02973cd0eba9aa4d0ce3b08228"
+  },
+  {
+   "id": "sp-4RT2pNX9ZXCB0LtqfI2sdJ",
+   "collections": [
+    "geese"
+   ],
+   "title": "3D Country",
+   "artist": "Geese",
+   "type": "정규",
+   "date": "2023-06-23",
+   "cover": "",
+   "source": "https://open.spotify.com/album/4RT2pNX9ZXCB0LtqfI2sdJ",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b"
+  },
+  {
+   "id": "sp-2jliA7qOg03hZjRqumKssq",
+   "collections": [
+    "automatic"
+   ],
+   "title": "Is It Now?",
+   "artist": "Automatic",
+   "type": "정규",
+   "date": "2025-09-26",
+   "cover": "",
+   "source": "https://open.spotify.com/album/2jliA7qOg03hZjRqumKssq",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e0205caa622dbfc1f44bf8d7455"
+  },
+  {
+   "id": "sp-4vSNQ69cqRe2WgsdPXH3mv",
+   "collections": [
+    "skrillex"
+   ],
+   "title": "SOMA",
+   "artist": "Skrillex",
+   "type": "정규",
+   "date": "2026-06-05",
+   "cover": "",
+   "source": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02f4d40a252848a83d49e0ff1b"
+  },
+  {
+   "id": "sp-4kB9n44dTgxuiZZLtaBo9v",
+   "collections": [
+    "sp-607e1j0ovx9hpfgrqrl3tc"
+   ],
+   "title": "Zoo",
+   "artist": "んoon",
+   "type": "정규",
+   "date": "2026-04-01",
+   "cover": "",
+   "source": "https://open.spotify.com/album/4kB9n44dTgxuiZZLtaBo9v",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02f9e362eb9caccf708f5985fb"
+  },
+  {
+   "id": "sp-6o6VAIetIFOsaOa0qt7w9u",
+   "collections": [
+    "quadeca"
+   ],
+   "title": "Vanisher, Horizon Scraper",
+   "artist": "Quadeca",
+   "type": "정규",
+   "date": "2025-07-25",
+   "cover": "",
+   "source": "https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02e09daa190c938f3fffbfe88a"
+  },
+  {
+   "id": "sp-46mboRimEXi5KPeUqtkC2i",
+   "collections": [
+    "tierra-whack"
+   ],
+   "title": "WHACK'S MUSEUM",
+   "artist": "Tierra Whack",
+   "type": "정규",
+   "date": "2026-06-19",
+   "cover": "",
+   "source": "https://open.spotify.com/album/46mboRimEXi5KPeUqtkC2i",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02117fa2e60be61cd93624753b"
+  },
+  {
+   "id": "sp-2kwTXgEgFRv1DUbhmLsNcM",
+   "collections": [
+    "balming-tiger"
+   ],
+   "title": "Gongbu",
+   "artist": "Balming Tiger",
+   "type": "정규",
+   "date": "2026-05-19",
+   "cover": "",
+   "source": "https://open.spotify.com/album/2kwTXgEgFRv1DUbhmLsNcM",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02ab9284856f45e3fe87e769d6"
+  },
+  {
+   "id": "sp-513jv6L44NNDZQGSaPNg7S",
+   "collections": [
+    "nia-archives"
+   ],
+   "title": "Emotional Junglist",
+   "artist": "Nia Archives",
+   "type": "정규",
+   "date": "2026-07-17",
+   "cover": "",
+   "source": "https://open.spotify.com/album/513jv6L44NNDZQGSaPNg7S",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02be16f05a26cf84e60f433e7e"
+  },
+  {
+   "id": "sp-50sCI7KVEicmDpAxloCEyU",
+   "collections": [
+    "devin-morrison"
+   ],
+   "title": "SAKURA",
+   "artist": "Devin Morrison",
+   "type": "정규",
+   "date": "2026-06-18",
+   "cover": "",
+   "source": "https://open.spotify.com/album/50sCI7KVEicmDpAxloCEyU",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02367611fb86612b76230edb4f"
+  },
+  {
+   "id": "sp-4DWK6TLXHl1fly2zi5RlO7",
+   "collections": [
+    "laufey"
+   ],
+   "title": "A Matter of Time: The Final Hour",
+   "artist": "Laufey",
+   "type": "정규",
+   "date": "2026-04-10",
+   "cover": "",
+   "source": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e026ec6bdb1b31c8cb6b1d3511f"
+  },
+  {
+   "id": "sp-6ID17PzjagQlFsc1KFha5v",
+   "collections": [
+    "keith-jarrett"
+   ],
+   "title": "My Song",
+   "artist": "Keith Jarrett",
+   "type": "정규",
+   "date": "1978-06-01",
+   "cover": "",
+   "source": "https://open.spotify.com/album/6ID17PzjagQlFsc1KFha5v",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02c23c205d1d0bc1d5360ef2ab"
+  },
+  {
+   "id": "sp-7mwyiTViOEtAtOeoilQ3QG",
+   "collections": [
+    "jill-scott"
+   ],
+   "title": "To Whom This May Concern",
+   "artist": "Jill Scott",
+   "type": "정규",
+   "date": "2026-02-13",
+   "cover": "",
+   "source": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e027096302e941475f3e2649fc2"
+  },
+  {
+   "id": "sp-5aKkn0IowVod0wgFIOwCZC",
+   "collections": [
+    "kim-ximya"
+   ],
+   "title": "Dogma",
+   "artist": "Kim Ximya",
+   "type": "정규",
+   "date": "2026-09-09",
+   "cover": "",
+   "source": "https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02033e9618db9f377a991cb5e7"
+  },
+  {
+   "id": "sp-6xBYjKF7uvteMN51uxVNJv",
+   "collections": [
+    "broadcast"
+   ],
+   "title": "Tender Buttons",
+   "artist": "Broadcast",
+   "type": "정규",
+   "date": "2005-09-19",
+   "cover": "",
+   "source": "https://open.spotify.com/album/6xBYjKF7uvteMN51uxVNJv",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02efeb5afb5e7bcb9c6660fe39"
+  },
+  {
+   "id": "sp-2HdpaWmRrdkzueHVzeFsSw",
+   "collections": [
+    "flyingfish"
+   ],
+   "title": "Second Attempt",
+   "artist": "flyingfish",
+   "type": "EP",
+   "date": "2026-02-13",
+   "cover": "",
+   "source": "https://open.spotify.com/album/2HdpaWmRrdkzueHVzeFsSw",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02bd8b91db8a1830c7028f4c2c"
+  },
+  {
+   "id": "sp-6c3Xs0oDVFXrqVh56D50do",
+   "collections": [
+    "puma-blue"
+   ],
+   "title": "Croak Dream",
+   "artist": "Puma Blue",
+   "type": "정규",
+   "date": "2026-02-06",
+   "cover": "",
+   "source": "https://open.spotify.com/album/6c3Xs0oDVFXrqVh56D50do",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e0254e0d836cea0dc91df9448a1"
+  },
+  {
+   "id": "sp-1BwP4KYs256iX37FEXSoQM",
+   "collections": [
+    "virtual-riot"
+   ],
+   "title": "Burning Out",
+   "artist": "Virtual Riot",
+   "type": "정규",
+   "date": "2026-04-09",
+   "cover": "",
+   "source": "https://open.spotify.com/album/1BwP4KYs256iX37FEXSoQM",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e023d9d8662f6ad309a19208ded"
+  },
+  {
+   "id": "sp-11iqEmiRj6IJ0eXj4VrhQq",
+   "collections": [
+    "freddie-gibbs"
+   ],
+   "title": "You Only Die 1nce (Deluxe)",
+   "artist": "Freddie Gibbs",
+   "type": "정규",
+   "date": "2026-06-05",
+   "cover": "",
+   "source": "https://open.spotify.com/album/11iqEmiRj6IJ0eXj4VrhQq",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e0271bd9e2dd0ff7066599bfd43"
+  },
+  {
+   "id": "sp-0Cwh78WfxUMb1P8a7tIxYm",
+   "collections": [
+    "sweeping-promises"
+   ],
+   "title": "Hunger for a Way Out",
+   "artist": "Sweeping Promises",
+   "type": "정규",
+   "date": "2020-08-14",
+   "cover": "",
+   "source": "https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02c6acd74bac9263d6c3bed607"
+  },
+  {
+   "id": "sp-44TnNITjFtCFKCWXu5nD64",
+   "collections": [
+    "angela-munoz",
+    "adrian-younge"
+   ],
+   "title": "Adrian Younge Presents: Angela Muñoz",
+   "artist": "Angela Muñoz, Adrian Younge",
+   "type": "정규",
+   "date": "2020-06-26",
+   "cover": "",
+   "source": "https://open.spotify.com/album/44TnNITjFtCFKCWXu5nD64",
+   "collaboration": true,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e029eb8726580c91aa8fef4d1b6"
+  },
+  {
+   "id": "sp-6IGDCUkBJ3LEUoAcoTD46u",
+   "collections": [
+    "phony-ppl"
+   ],
+   "title": "Yesterday's Tomorrow",
+   "artist": "Phony Ppl",
+   "type": "정규",
+   "date": "2015-01-13",
+   "cover": "",
+   "source": "https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02d9ac65941679b76106866c87"
+  },
+  {
+   "id": "sp-3WZZF72ihlKPZBS4zSsNHl",
+   "collections": [
+    "olivia-rodrigo"
+   ],
+   "title": "you seem pretty sad for a girl so in love",
+   "artist": "Olivia Rodrigo",
+   "type": "정규",
+   "date": "2026-06-12",
+   "cover": "",
+   "source": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e025cf234eeb7a2edf44bf64a46"
+  },
+  {
+   "id": "sp-6yvKcQNyd09wYCCp8O8mNB",
+   "collections": [
+    "thee-sacred-souls"
+   ],
+   "title": "Got a Story to Tell",
+   "artist": "Thee Sacred Souls",
+   "type": "정규",
+   "date": "2024-10-04",
+   "cover": "",
+   "source": "https://open.spotify.com/album/6yvKcQNyd09wYCCp8O8mNB",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02fb5ec1359ec0df1e284d7eb9"
+  },
+  {
+   "id": "sp-2xoj2gYed3IYmGWn3owSfu",
+   "collections": [
+    "m-i-a"
+   ],
+   "title": "Kala",
+   "artist": "M.I.A.",
+   "type": "정규",
+   "date": "2007-08-20",
+   "cover": "",
+   "source": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02b969252f70cba3291b5fa077"
+  },
+  {
+   "id": "sp-4itKk52E9ZCdWUQcFAkud9",
+   "collections": [
+    "a-ap-rocky"
+   ],
+   "title": "Don't Be Dumb",
+   "artist": "A$AP Rocky",
+   "type": "정규",
+   "date": "2026-01-16",
+   "cover": "",
+   "source": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02be35d523672e13da3debc413"
+  },
+  {
+   "id": "sp-3e3940yQZe1i2GIDPNRGVB",
+   "collections": [
+    "syd"
+   ],
+   "title": "Beard",
+   "artist": "Syd",
+   "type": "정규",
+   "date": "2026-07-17",
+   "cover": "",
+   "source": "https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02ca2f2f7e78df204fd18fc65d"
+  },
+  {
+   "id": "sp-6R21I5E805CLZmDn8vESQM",
+   "collections": [
+    "wisp"
+   ],
+   "title": "If Not Winter",
+   "artist": "Wisp",
+   "type": "정규",
+   "date": "2025-08-01",
+   "cover": "",
+   "source": "https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02c8b32380575d518f0639a123"
+  },
+  {
+   "id": "sp-5Asm8hPfn7pAlxpoir4ljs",
+   "collections": [
+    "vince-staples"
+   ],
+   "title": "Cry Baby",
+   "artist": "Vince Staples",
+   "type": "정규",
+   "date": "2026-06-05",
+   "cover": "",
+   "source": "https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e0287ee4f91c1cf34f835dbe991"
+  },
+  {
+   "id": "sp-7mOrnQqDad3RgYQsJGaaqk",
+   "collections": [
+    "cameron-winter"
+   ],
+   "title": "Heavy Metal",
+   "artist": "Cameron Winter",
+   "type": "정규",
+   "date": "2024-12-06",
+   "cover": "",
+   "source": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e024738aa171569052376f162fe"
+  },
+  {
+   "id": "sp-4HZ3fF1dwSZLwztlLwoDYA",
+   "collections": [
+    "fred-again",
+    "latin-mafia"
+   ],
+   "title": "9 months & 50 hours",
+   "artist": "Fred again.., LATIN MAFIA",
+   "type": "정규",
+   "date": "2026-07-31",
+   "cover": "",
+   "source": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA",
+   "collaboration": true,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e022fe1ee03a5bed6b4a2e73296"
+  },
+  {
+   "id": "sp-7oBZ821DTjUc2Ky2fV6l6Q",
+   "collections": [
+    "brent-faiyaz"
+   ],
+   "title": "Icon",
+   "artist": "Brent Faiyaz",
+   "type": "정규",
+   "date": "2026-02-13",
+   "cover": "",
+   "source": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02d8acadd7be5455ea09c06cf9"
+  },
+  {
+   "id": "sp-4oniyB3TRFhjglVSqVgy9e",
+   "collections": [
+    "charli-xcx"
+   ],
+   "title": "Wuthering Heights",
+   "artist": "Charli xcx",
+   "type": "정규",
+   "date": "2026-02-13",
+   "cover": "",
+   "source": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4"
+  },
+  {
+   "id": "sp-1Rj1daFzMlYzLv7lJl14hz",
+   "collections": [
+    "public-enemy"
+   ],
+   "title": "It Takes A Nation Of Millions To Hold Us Back",
+   "artist": "Public Enemy",
+   "type": "정규",
+   "date": "1988-06-28",
+   "cover": "",
+   "source": "https://open.spotify.com/album/1Rj1daFzMlYzLv7lJl14hz",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02c713ac7a7e884bed1b068d95"
+  },
+  {
+   "id": "sp-31CsGmiuYFnvVMu0r2uGzq",
+   "collections": [
+    "nafla"
+   ],
+   "title": "instinct",
+   "artist": "nafla",
+   "type": "정규",
+   "date": "2026-08-26",
+   "cover": "",
+   "source": "https://open.spotify.com/album/31CsGmiuYFnvVMu0r2uGzq",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e025265bc61ee70db17f1ee1329"
+  },
+  {
+   "id": "sp-4yO2uzc6AgadKUtGIBCZwK",
+   "collections": [
+    "denzel-curry",
+    "kenny-beats"
+   ],
+   "title": "ii",
+   "artist": "Denzel Curry, Kenny Beats",
+   "type": "정규",
+   "date": "2026-08-21",
+   "cover": "",
+   "source": "https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK",
+   "collaboration": true,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02e33108f47dbaec59793f0932"
+  },
+  {
+   "id": "sp-7gJQQKw4NCd0EUz3NKshgM",
+   "collections": [
+    "silica-gel"
+   ],
+   "title": "Ballad of You",
+   "artist": "Silica Gel",
+   "type": "정규",
+   "date": "2026-08-20",
+   "cover": "",
+   "source": "https://open.spotify.com/album/7gJQQKw4NCd0EUz3NKshgM",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e021c3d57baf36fadc063efe175"
+  },
+  {
+   "id": "sp-289GZwycrFReuNB706obBx",
+   "collections": [
+    "steve-lacy"
+   ],
+   "title": "Oh yeah?",
+   "artist": "Steve Lacy",
+   "type": "정규",
+   "date": "2026-07-17",
+   "cover": "",
+   "source": "https://open.spotify.com/album/289GZwycrFReuNB706obBx",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042"
+  },
+  {
+   "id": "sp-2iZQUDdBmpRb0fNtAbM1XJ",
+   "collections": [
+    "hyelyn-joo"
+   ],
+   "title": "stereo",
+   "artist": "Hyelyn Joo",
+   "type": "EP",
+   "date": "2025-08-14",
+   "cover": "",
+   "source": "https://open.spotify.com/album/2iZQUDdBmpRb0fNtAbM1XJ",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02772e431aab4ced9f7fbf2185"
+  },
+  {
+   "id": "sp-7zPBy6Rjmijd4p8drmQPu7",
+   "collections": [
+    "beabadoobee"
+   ],
+   "title": "Patched Up",
+   "artist": "beabadoobee",
+   "type": "정규",
+   "date": "2018-12-07",
+   "cover": "",
+   "source": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02fe11583497b2a332995b88ed"
+  },
+  {
+   "id": "sp-5oT7xqbRbQCevZ0XC5aBFu",
+   "collections": [
+    "beabadoobee"
+   ],
+   "title": "This Is How Tomorrow Moves",
+   "artist": "beabadoobee",
+   "type": "정규",
+   "date": "2024-08-09",
+   "cover": "",
+   "source": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e027d9a2e7835a178df7b0153aa"
+  },
+  {
+   "id": "sp-0eeXb23yMW6EaIgm63xxPC",
+   "collections": [
+    "geese"
+   ],
+   "title": "Getting Killed",
+   "artist": "Geese",
+   "type": "정규",
+   "date": "2025-09-26",
+   "cover": "",
+   "source": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018"
+  },
+  {
+   "id": "sp-0EnqyUhEagJHUrFmmlTzYs",
+   "collections": [
+    "ash-leone"
+   ],
+   "title": "All Is Well",
+   "artist": "Ash Leone",
+   "type": "EP",
+   "date": "2025-05-21",
+   "cover": "",
+   "source": "https://open.spotify.com/album/0EnqyUhEagJHUrFmmlTzYs",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02b5b2344af8392214b0e112f7"
+  },
+  {
+   "id": "sp-0VxziZFOojSiGCJ5YbVcRG",
+   "collections": [
+    "finneas-o-connell"
+   ],
+   "title": "BEEF Season 2 (Original Soundtrack)",
+   "artist": "Finneas O'Connell",
+   "type": "정규",
+   "date": "2026-04-16",
+   "cover": "",
+   "source": "https://open.spotify.com/album/0VxziZFOojSiGCJ5YbVcRG",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02c46cf80bbf271332b1fb98f8"
+  },
+  {
+   "id": "sp-5K18gTgac0q6Jma5HkV1vA",
+   "collections": [
+    "mazzy-star"
+   ],
+   "title": "So Tonight That I Might See",
+   "artist": "Mazzy Star",
+   "type": "정규",
+   "date": "1993-10-05",
+   "cover": "",
+   "source": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e0289a392107ebd79818022b3ea"
+  },
+  {
+   "id": "sp-20r762YmB5HeofjMCiPMLv",
+   "collections": [
+    "kanye-west"
+   ],
+   "title": "My Beautiful Dark Twisted Fantasy",
+   "artist": "Kanye West",
+   "type": "정규",
+   "date": "2010-11-22",
+   "cover": "",
+   "source": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f"
+  },
+  {
+   "id": "sp-21xGzx6HTydCnvfZTvLf6b",
+   "collections": [
+    "baby-keem"
+   ],
+   "title": "Ca$ino",
+   "artist": "Baby Keem",
+   "type": "정규",
+   "date": "2026-02-20",
+   "cover": "",
+   "source": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e0208a27a15cf37664f0dab6ab7"
+  },
+  {
+   "id": "sp-1ohUa4biJdcAhjnEbOOXYy",
+   "collections": [
+    "paris-texas"
+   ],
+   "title": "MID AIR",
+   "artist": "Paris Texas",
+   "type": "정규",
+   "date": "2023-07-21",
+   "cover": "",
+   "source": "https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e025fd099644de1e88734f1a295"
+  },
+  {
+   "id": "sp-1CI6rY0FSqp4DrxSYWR3nA",
+   "collections": [
+    "phoebe-rings"
+   ],
+   "title": "Aseurai",
+   "artist": "Phoebe Rings",
+   "type": "정규",
+   "date": "2025-06-06",
+   "cover": "",
+   "source": "https://open.spotify.com/album/1CI6rY0FSqp4DrxSYWR3nA",
+   "collaboration": false,
+   "tracks": [],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02e2119ef8e189d1a2291e6bad"
+  },
+  {
+   "id": "sp-hank-crawford-wildflower",
+   "collections": [
+    "hank-crawford"
+   ],
+   "title": "Wildflower",
+   "artist": "Hank Crawford",
+   "type": "정규",
+   "date": "1973-01-01",
+   "cover": "",
+   "source": "https://open.spotify.com/track/6k1NlbXRqTu51DiDJ7Mwwf",
+   "collaboration": false,
+   "tracks": [
+    "sp-6k1NlbXRqTu51DiDJ7Mwwf"
+   ],
+   "coverSource": "https://i.scdn.co/image/ab67616d00001e02ccbe8cdd9d47d6032ff05fb6"
   }
  ],
  "tracks": {
@@ -1038,6 +3404,13 @@
    "artist": "Paul Cherry",
    "duration": 142.88,
    "source": "https://music.apple.com/us/album/playroom-feat-kate-bollinger/1840253810?i=1840253812&uo=4"
+  },
+  "sp-6k1NlbXRqTu51DiDJ7Mwwf": {
+   "id": "sp-6k1NlbXRqTu51DiDJ7Mwwf",
+   "title": "Wildflower",
+   "artist": "Hank Crawford",
+   "duration": null,
+   "source": "https://open.spotify.com/track/6k1NlbXRqTu51DiDJ7Mwwf"
   }
  }
 }
