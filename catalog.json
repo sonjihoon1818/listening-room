@@ -12,407 +12,407 @@
    "id": "joji",
    "name": "Joji",
    "source": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq",
-   "image": "",
+   "image": "covers/artist-joji.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174b6d7836808e8b99fc8c7aadc"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebb6d7836808e8b99fc8c7aadc"
   },
   {
    "id": "adam-green",
    "name": "Adam Green",
    "source": "https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj",
-   "image": "",
+   "image": "covers/artist-adam-green.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174615d26cb73ecd63546b93eed"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb615d26cb73ecd63546b93eed"
   },
   {
    "id": "by-storm",
    "name": "By Storm",
    "source": "https://open.spotify.com/artist/1YUIjQ3ugjokiyb908LpVO",
-   "image": "",
+   "image": "covers/artist-by-storm.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174525f1b2f65c4cc7c35757793"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb525f1b2f65c4cc7c35757793"
   },
   {
    "id": "injury-reserve",
    "name": "Injury Reserve",
    "source": "https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73",
-   "image": "",
+   "image": "covers/artist-injury-reserve.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051742a8b5966bf18ebc260d6f697"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb2a8b5966bf18ebc260d6f697"
   },
   {
    "id": "j-cole",
    "name": "J. Cole",
    "source": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5",
-   "image": "",
+   "image": "covers/artist-j-cole.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174c401ea77e86ee984b1ba9fc2"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebc401ea77e86ee984b1ba9fc2"
   },
   {
    "id": "quadeca",
    "name": "Quadeca",
    "source": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS",
-   "image": "",
+   "image": "covers/artist-quadeca.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051741eee118b4a489ddd3de9f47b"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb1eee118b4a489ddd3de9f47b"
   },
   {
    "id": "puma-blue",
    "name": "Puma Blue",
    "source": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG",
-   "image": "",
+   "image": "covers/artist-puma-blue.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051740b676222e49056ce9b91cf2a"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb0b676222e49056ce9b91cf2a"
   },
   {
    "id": "a-ap-rocky",
    "name": "A$AP Rocky",
    "source": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
-   "image": "",
+   "image": "covers/artist-a-ap-rocky.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174ad160b333f9a240f84aff7d7"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7"
   },
   {
    "id": "kanye-west",
    "name": "Kanye West",
    "source": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
-   "image": "",
+   "image": "covers/artist-kanye-west.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a"
   },
   {
    "id": "omega-sapien",
    "name": "Omega Sapien",
    "source": "https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU",
-   "image": "",
+   "image": "covers/artist-omega-sapien.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab6761610000517409583419beb954de37d9185a"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb09583419beb954de37d9185a"
   },
   {
    "id": "campus-christy",
    "name": "Campus Christy",
    "source": "https://open.spotify.com/artist/5aI67LLOxQSx90XTAuljTP",
-   "image": "",
+   "image": "covers/artist-campus-christy.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051748818e145966f1be479619035"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb8818e145966f1be479619035"
   },
   {
    "id": "chris-manak",
    "name": "Chris Manak",
    "source": "https://open.spotify.com/artist/0npX9cd4ZLrZTt5wgwzREd",
-   "image": "",
+   "image": "covers/artist-chris-manak.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616d00001e02ab54eca7d8284fcdb4596dea"
+   "imageSource": "https://i.scdn.co/image/ab67616d0000b273ab54eca7d8284fcdb4596dea"
   },
   {
    "id": "brian-ellis",
    "name": "Brian Ellis",
    "source": "https://open.spotify.com/artist/0oP5sLCzQvtRCwiI6RntiN",
-   "image": "",
+   "image": "covers/artist-brian-ellis.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616d00001e02b8948967272e00affddf7555"
+   "imageSource": "https://i.scdn.co/image/ab67616d0000b273b8948967272e00affddf7555"
   },
   {
    "id": "brent-faiyaz",
    "name": "Brent Faiyaz",
    "source": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG",
-   "image": "",
+   "image": "covers/artist-brent-faiyaz.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174582fbf712f5b6a9bf65d9b84"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb582fbf712f5b6a9bf65d9b84"
   },
   {
    "id": "charli-xcx",
    "name": "Charli xcx",
    "source": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5",
-   "image": "",
+   "image": "covers/artist-charli-xcx.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051746fa76436a2bba83b9f1d6fd1"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb6fa76436a2bba83b9f1d6fd1"
   },
   {
    "id": "ash-leone",
    "name": "Ash Leone",
    "source": "https://open.spotify.com/artist/434AIs2qYptNr3FFegjQaK",
-   "image": "",
+   "image": "covers/artist-ash-leone.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab6761610000517402a8957850d5ae8ae34ac70d"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb02a8957850d5ae8ae34ac70d"
   },
   {
    "id": "benny-sings",
    "name": "Benny Sings",
    "source": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N",
-   "image": "",
+   "image": "covers/artist-benny-sings.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174930f021f5647364fb4e8692e"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb930f021f5647364fb4e8692e"
   },
   {
    "id": "jill-scott",
    "name": "Jill Scott",
    "source": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD",
-   "image": "",
+   "image": "covers/artist-jill-scott.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051748e4a7af66dab0223072a3386"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb8e4a7af66dab0223072a3386"
   },
   {
    "id": "baby-keem",
    "name": "Baby Keem",
    "source": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1",
-   "image": "",
+   "image": "covers/artist-baby-keem.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174e45a6e4cee2ef5f4c0fec713"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebe45a6e4cee2ef5f4c0fec713"
   },
   {
    "id": "phoebe-rings",
    "name": "Phoebe Rings",
    "source": "https://open.spotify.com/artist/6bU6vdMpAqDEoWsj8iUNEf",
-   "image": "",
+   "image": "covers/artist-phoebe-rings.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab6761610000517416155841ac32d8b68a018270"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb16155841ac32d8b68a018270"
   },
   {
    "id": "bruno-mars",
    "name": "Bruno Mars",
    "source": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C",
-   "image": "",
+   "image": "covers/artist-bruno-mars.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174c7688aad1bf03986934d7e26"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebc7688aad1bf03986934d7e26"
   },
   {
    "id": "automatic",
    "name": "Automatic",
    "source": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU",
-   "image": "",
+   "image": "covers/artist-automatic.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174337e86e457beb03d4fd266d4"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb337e86e457beb03d4fd266d4"
   },
   {
    "id": "slayr",
    "name": "slayr",
    "source": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
-   "image": "",
+   "image": "covers/artist-slayr.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174c9af537b072eccabc79257dc"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebc9af537b072eccabc79257dc"
   },
   {
    "id": "the-poles",
    "name": "The Poles",
    "source": "https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q",
-   "image": "",
+   "image": "covers/artist-the-poles.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051742b9a877451b4bb74b01d2ea0"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb2b9a877451b4bb74b01d2ea0"
   },
   {
    "id": "apifera",
    "name": "Apifera",
    "source": "https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr",
-   "image": "",
+   "image": "covers/artist-apifera.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174d419f44f970cd0f345ea1eab"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebd419f44f970cd0f345ea1eab"
   },
   {
    "id": "flawed-mangoes",
    "name": "Flawed Mangoes",
    "source": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG",
-   "image": "",
+   "image": "covers/artist-flawed-mangoes.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab6761610000517414bdfcdaa4e13c65d7859a5c"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb14bdfcdaa4e13c65d7859a5c"
   },
   {
    "id": "beabadoobee",
    "name": "beabadoobee",
    "source": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB",
-   "image": "",
+   "image": "covers/artist-beabadoobee.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051743a41a62e7193703d29d30a9a"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb3a41a62e7193703d29d30a9a"
   },
   {
    "id": "phony-ppl",
    "name": "Phony Ppl",
    "source": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6",
-   "image": "",
+   "image": "covers/artist-phony-ppl.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174b658dcfdfcaf59488eabcdc2"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebb658dcfdfcaf59488eabcdc2"
   },
   {
    "id": "kid-milli",
    "name": "Kid Milli",
    "source": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J",
-   "image": "",
+   "image": "covers/artist-kid-milli.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174f132a47755eeab007a292a3f"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebf132a47755eeab007a292a3f"
   },
   {
    "id": "mika",
    "name": "MIKA",
    "source": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA",
-   "image": "",
+   "image": "covers/artist-mika.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174b1902d6814cf6a19da60163e"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebb1902d6814cf6a19da60163e"
   },
   {
    "id": "legit-goons",
    "name": "Legit Goons",
    "source": "https://open.spotify.com/artist/4HwHRZI8xz6Zy9vOksqw7R",
-   "image": "",
+   "image": "covers/artist-legit-goons.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174ae70328b2c6ea1fb063d3e0a"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebae70328b2c6ea1fb063d3e0a"
   },
   {
    "id": "don-toliver",
    "name": "Don Toliver",
    "source": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
-   "image": "",
+   "image": "covers/artist-don-toliver.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174c52b798deb89eb8414a51b7b"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b"
   },
   {
    "id": "underscores",
    "name": "underscores",
    "source": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7",
-   "image": "",
+   "image": "covers/artist-underscores.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174de8dfaf8e64fee65ef479e68"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebde8dfaf8e64fee65ef479e68"
   },
   {
    "id": "fetty-wap",
    "name": "Fetty Wap",
    "source": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL",
-   "image": "",
+   "image": "covers/artist-fetty-wap.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174f6df2e78223259e7d425b1ee"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebf6df2e78223259e7d425b1ee"
   },
   {
    "id": "james-blake",
    "name": "James Blake",
    "source": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU",
-   "image": "",
+   "image": "covers/artist-james-blake.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174eea5ea7752893d8898dbd163"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebeea5ea7752893d8898dbd163"
   },
   {
    "id": "thee-sacred-souls",
    "name": "Thee Sacred Souls",
    "source": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
-   "image": "",
+   "image": "covers/artist-thee-sacred-souls.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051741a99219498d5119b0e742b19"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19"
   },
   {
    "id": "cameron-winter",
    "name": "Cameron Winter",
    "source": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO",
-   "image": "",
+   "image": "covers/artist-cameron-winter.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab6761610000517470fea1b7a7a5c70c895109dc"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb70fea1b7a7a5c70c895109dc"
   },
   {
    "id": "geese",
    "name": "Geese",
    "source": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4",
-   "image": "",
+   "image": "covers/artist-geese.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebbc9546a945c7563a9eb21f3d"
   },
   {
    "id": "huijun-woo",
    "name": "huijun woo",
    "source": "https://open.spotify.com/artist/0QPwpwjMdM0lU9NPmmqyEK",
-   "image": "",
+   "image": "covers/artist-huijun-woo.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174708fc4b483e0d8c7e5e33ff6"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb708fc4b483e0d8c7e5e33ff6"
   },
   {
    "id": "flyingfish",
    "name": "flyingfish",
    "source": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG",
-   "image": "",
+   "image": "covers/artist-flyingfish.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174f8ecb51ffd078a1dcfbddd34"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebf8ecb51ffd078a1dcfbddd34"
   },
   {
    "id": "tom-misch",
    "name": "Tom Misch",
    "source": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye",
-   "image": "",
+   "image": "covers/artist-tom-misch.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174d13583bc1c845d1fedbe059f"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebd13583bc1c845d1fedbe059f"
   },
   {
    "id": "thundercat",
    "name": "Thundercat",
    "source": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
-   "image": "",
+   "image": "covers/artist-thundercat.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051746941830307896269157f7dd4"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb6941830307896269157f7dd4"
   },
   {
    "id": "zach-bryan",
    "name": "Zach Bryan",
    "source": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2",
-   "image": "",
+   "image": "covers/artist-zach-bryan.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051746492861f8e00ecfb8cabea3f"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb6492861f8e00ecfb8cabea3f"
   },
   {
    "id": "megadeth",
    "name": "Megadeth",
    "source": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf",
-   "image": "",
+   "image": "covers/artist-megadeth.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174d5233fdc8cad84de5b366f1b"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebd5233fdc8cad84de5b366f1b"
   },
   {
    "id": "sp-607e1j0ovx9hpfgrqrl3tc",
    "name": "んoon",
    "source": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC",
-   "image": "",
+   "image": "covers/artist-sp-607e1j0ovx9hpfgrqrl3tc.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616d00001e023bb21e980c3d956ed92b8315"
+   "imageSource": "https://i.scdn.co/image/ab67616d0000b2733bb21e980c3d956ed92b8315"
   },
   {
    "id": "virtual-riot",
    "name": "Virtual Riot",
    "source": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1",
-   "image": "",
+   "image": "covers/artist-virtual-riot.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174f02c148a51fb4b5923d0f6d9"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebf02c148a51fb4b5923d0f6d9"
   },
   {
    "id": "angela-munoz",
    "name": "Angela Muñoz",
    "source": "https://open.spotify.com/artist/0LYpHdjPJEKhjh3euGHngh",
-   "image": "",
+   "image": "covers/artist-angela-munoz.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174c7b5a940acff41ab81c3ccca"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebc7b5a940acff41ab81c3ccca"
   },
   {
    "id": "adrian-younge",
    "name": "Adrian Younge",
    "source": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd",
-   "image": "",
+   "image": "covers/artist-adrian-younge.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174127f8c83e7447023498d4df5"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb127f8c83e7447023498d4df5"
   },
   {
    "id": "hyelyn-joo",
    "name": "Hyelyn Joo",
    "source": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E",
-   "image": "",
+   "image": "covers/artist-hyelyn-joo.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174bd67680042c63e28be73367a"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebbd67680042c63e28be73367a"
   },
   {
    "id": "ryuichi-sakamoto",
    "name": "Ryuichi Sakamoto",
    "source": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA",
-   "image": "",
+   "image": "covers/artist-ryuichi-sakamoto.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174323c73cb431edf7ba9ed34b2"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb323c73cb431edf7ba9ed34b2"
   },
   {
    "id": "finneas-o-connell",
    "name": "Finneas O'Connell",
    "source": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96",
-   "image": "",
+   "image": "covers/artist-finneas-o-connell.jpg",
    "addedAt": "2026-10-21",
    "imageSource": "https://i.scdn.co/image/ab6772690000bac30e1ccd25ffc4cc552f933d17"
   },
@@ -420,183 +420,183 @@
    "id": "little-simz",
    "name": "Little Simz",
    "source": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI",
-   "image": "",
+   "image": "covers/artist-little-simz.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174a22264dfbad2d96ffc6ee2e0"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eba22264dfbad2d96ffc6ee2e0"
   },
   {
    "id": "lady-gaga",
    "name": "Lady Gaga",
    "source": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms",
-   "image": "",
+   "image": "covers/artist-lady-gaga.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174aadc18cac8d48124357c38e6"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6"
   },
   {
    "id": "doechii",
    "name": "Doechii",
    "source": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB",
-   "image": "",
+   "image": "covers/artist-doechii.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174ca2fee52c41d3f58ceb6474b"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebca2fee52c41d3f58ceb6474b"
   },
   {
    "id": "sienna-spiro",
    "name": "SIENNA SPIRO",
    "source": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v",
-   "image": "",
+   "image": "covers/artist-sienna-spiro.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174fb0ab819bbd4502028cd1feb"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebfb0ab819bbd4502028cd1feb"
   },
   {
    "id": "woo",
    "name": "Woo",
    "source": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02",
-   "image": "",
+   "image": "covers/artist-woo.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174c6d18bfd181b078ba9760653"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebc6d18bfd181b078ba9760653"
   },
   {
    "id": "beach-house",
    "name": "Beach House",
    "source": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY",
-   "image": "",
+   "image": "covers/artist-beach-house.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174b3e38a46a56a423d8f741c09"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09"
   },
   {
    "id": "keith-jarrett",
    "name": "Keith Jarrett",
    "source": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y",
-   "image": "",
+   "image": "covers/artist-keith-jarrett.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051748757d081b1451ea9415230cb"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb8757d081b1451ea9415230cb"
   },
   {
    "id": "broadcast",
    "name": "Broadcast",
    "source": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU",
-   "image": "",
+   "image": "covers/artist-broadcast.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174a75b0d24a56b137585130123"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eba75b0d24a56b137585130123"
   },
   {
    "id": "mazzy-star",
    "name": "Mazzy Star",
    "source": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W",
-   "image": "",
+   "image": "covers/artist-mazzy-star.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051740d2c80ce808454e642e849e6"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb0d2c80ce808454e642e849e6"
   },
   {
    "id": "chris-brown",
    "name": "Chris Brown",
    "source": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z",
-   "image": "",
+   "image": "covers/artist-chris-brown.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174913ab85302df0ddfb77131e9"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb913ab85302df0ddfb77131e9"
   },
   {
    "id": "bill-stax",
    "name": "BILL STAX",
    "source": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD",
-   "image": "",
+   "image": "covers/artist-bill-stax.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174ccdcaea752636aab7b2964f3"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebccdcaea752636aab7b2964f3"
   },
   {
    "id": "galaxie-500",
    "name": "Galaxie 500",
    "source": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG",
-   "image": "",
+   "image": "covers/artist-galaxie-500.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174efd9a324798d368dde6ec5ef"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebefd9a324798d368dde6ec5ef"
   },
   {
    "id": "kim-oki",
    "name": "Kim Oki",
    "source": "https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF",
-   "image": "",
+   "image": "covers/artist-kim-oki.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051740304a722419dbeef1d3f675c"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb0304a722419dbeef1d3f675c"
   },
   {
    "id": "cocteau-twins",
    "name": "Cocteau Twins",
    "source": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp",
-   "image": "",
+   "image": "covers/artist-cocteau-twins.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab6761610000517400f01cecce8a4475c3de0998"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998"
   },
   {
    "id": "laufey",
    "name": "Laufey",
    "source": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO",
-   "image": "",
+   "image": "covers/artist-laufey.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174c751deb23ed62e7cadfb669a"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebc751deb23ed62e7cadfb669a"
   },
   {
    "id": "skrillex",
    "name": "Skrillex",
    "source": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX",
-   "image": "",
+   "image": "covers/artist-skrillex.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab6761610000517409a2575e4cfa8af8bce207d1"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb09a2575e4cfa8af8bce207d1"
   },
   {
    "id": "vince-staples",
    "name": "Vince Staples",
    "source": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm",
-   "image": "",
+   "image": "covers/artist-vince-staples.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174d90bf111a0acbcb98fc6569d"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebd90bf111a0acbcb98fc6569d"
   },
   {
    "id": "boards-of-canada",
    "name": "Boards of Canada",
    "source": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
-   "image": "",
+   "image": "covers/artist-boards-of-canada.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051748d582d93756e158b968cc35d"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb8d582d93756e158b968cc35d"
   },
   {
    "id": "jpegmafia",
    "name": "JPEGMAFIA",
    "source": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO",
-   "image": "",
+   "image": "covers/artist-jpegmafia.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174b37aa35eec6d83fe18e48e73"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebb37aa35eec6d83fe18e48e73"
   },
   {
    "id": "mgk",
    "name": "mgk",
    "source": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX",
-   "image": "",
+   "image": "covers/artist-mgk.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab6761610000517485e7615a199f8b17fabfcd61"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb85e7615a199f8b17fabfcd61"
   },
   {
    "id": "wiz-khalifa",
    "name": "Wiz Khalifa",
    "source": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop",
-   "image": "",
+   "image": "covers/artist-wiz-khalifa.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174c66b0a8c3268f0b6556f64a8"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebc66b0a8c3268f0b6556f64a8"
   },
   {
    "id": "drake",
    "name": "Drake",
    "source": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
-   "image": "",
+   "image": "covers/artist-drake.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051744293385d324db8558179afd9"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9"
   },
   {
    "id": "brian-wilson",
    "name": "Brian Wilson",
    "source": "https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj",
-   "image": "",
+   "image": "covers/artist-brian-wilson.jpg",
    "addedAt": "2026-10-21",
    "imageSource": "https://i.scdn.co/image/6dd5f92272c4c2f7c5b0a8f68b8cb576c461ea30"
   },
@@ -604,7 +604,7 @@
    "id": "van-dyke-parks",
    "name": "Van Dyke Parks",
    "source": "https://open.spotify.com/artist/3M8NUieZuEOMs0Hf210w4n",
-   "image": "",
+   "image": "covers/artist-van-dyke-parks.jpg",
    "addedAt": "2026-10-21",
    "imageSource": "https://i.scdn.co/image/afdbb525d542e04e3c6d62ffec2bb193f2f47fea"
   },
@@ -612,199 +612,199 @@
    "id": "balming-tiger",
    "name": "Balming Tiger",
    "source": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1",
-   "image": "",
+   "image": "covers/artist-balming-tiger.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051743a05f13755a874e89ee695b7"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb3a05f13755a874e89ee695b7"
   },
   {
    "id": "wisp",
    "name": "Wisp",
    "source": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm",
-   "image": "",
+   "image": "covers/artist-wisp.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051743c452fd195cec342b58a3eea"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea"
   },
   {
    "id": "freddie-gibbs",
    "name": "Freddie Gibbs",
    "source": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb",
-   "image": "",
+   "image": "covers/artist-freddie-gibbs.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174499def7bd0369aa26a22273c"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb499def7bd0369aa26a22273c"
   },
   {
    "id": "sweeping-promises",
    "name": "Sweeping Promises",
    "source": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt",
-   "image": "",
+   "image": "covers/artist-sweeping-promises.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174b8687200efcf8975aedf301e"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebb8687200efcf8975aedf301e"
   },
   {
    "id": "yg",
    "name": "YG",
    "source": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY",
-   "image": "",
+   "image": "covers/artist-yg.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051742cb068e9e3864fab73592dca"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb2cb068e9e3864fab73592dca"
   },
   {
    "id": "devin-morrison",
    "name": "Devin Morrison",
    "source": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW",
-   "image": "",
+   "image": "covers/artist-devin-morrison.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174b5dc5af6b8a230b13c89db30"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebb5dc5af6b8a230b13c89db30"
   },
   {
    "id": "olivia-rodrigo",
    "name": "Olivia Rodrigo",
    "source": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG",
-   "image": "",
+   "image": "covers/artist-olivia-rodrigo.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174b14eb4dcfd2f3858bed06e44"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44"
   },
   {
    "id": "paris-texas",
    "name": "Paris Texas",
    "source": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq",
-   "image": "",
+   "image": "covers/artist-paris-texas.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174cd4785b475935db2fdb9915d"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebcd4785b475935db2fdb9915d"
   },
   {
    "id": "tierra-whack",
    "name": "Tierra Whack",
    "source": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh",
-   "image": "",
+   "image": "covers/artist-tierra-whack.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab6761610000517441c97b9ebb64c239c0f01598"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb41c97b9ebb64c239c0f01598"
   },
   {
    "id": "future",
    "name": "Future",
    "source": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i",
-   "image": "",
+   "image": "covers/artist-future.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051742c472c891062acb4f3068583"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb2c472c891062acb4f3068583"
   },
   {
    "id": "nia-archives",
    "name": "Nia Archives",
    "source": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ",
-   "image": "",
+   "image": "covers/artist-nia-archives.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174cc819c191667d9b2f775a9e8"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebcc819c191667d9b2f775a9e8"
   },
   {
    "id": "m-i-a",
    "name": "M.I.A.",
    "source": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU",
-   "image": "",
+   "image": "covers/artist-m-i-a.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab6761610000517408e45eab541fbffd3e657f02"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb08e45eab541fbffd3e657f02"
   },
   {
    "id": "fred-again",
    "name": "Fred again..",
    "source": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe",
-   "image": "",
+   "image": "covers/artist-fred-again.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174f760292919aee89e58d943d9"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebf760292919aee89e58d943d9"
   },
   {
    "id": "latin-mafia",
    "name": "LATIN MAFIA",
    "source": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF",
-   "image": "",
+   "image": "covers/artist-latin-mafia.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051748abe977d17e650d4fa2ec093"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb8abe977d17e650d4fa2ec093"
   },
   {
    "id": "syd",
    "name": "Syd",
    "source": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx",
-   "image": "",
+   "image": "covers/artist-syd.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174097f28ca7a5e04d5e44bb334"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb097f28ca7a5e04d5e44bb334"
   },
   {
    "id": "sumin",
    "name": "SUMIN",
    "source": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU",
-   "image": "",
+   "image": "covers/artist-sumin.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051747c8a6f898403fed58aa8172b"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb7c8a6f898403fed58aa8172b"
   },
   {
    "id": "joseph-solomon",
    "name": "Joseph Solomon",
    "source": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN",
-   "image": "",
+   "image": "covers/artist-joseph-solomon.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174d0fe8cb2350576f5d014ac53"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebd0fe8cb2350576f5d014ac53"
   },
   {
    "id": "lim-kim",
    "name": "LIM KIM",
    "source": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv",
-   "image": "",
+   "image": "covers/artist-lim-kim.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174045604e8b8f6954fe9a27403"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb045604e8b8f6954fe9a27403"
   },
   {
    "id": "steve-lacy",
    "name": "Steve Lacy",
    "source": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp",
-   "image": "",
+   "image": "covers/artist-steve-lacy.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051747e3150cffbfda40c6eaf28dd"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd"
   },
   {
    "id": "silica-gel",
    "name": "Silica Gel",
    "source": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn",
-   "image": "",
+   "image": "covers/artist-silica-gel.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab6761610000517413400fbc8e055088b5acf81b"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb13400fbc8e055088b5acf81b"
   },
   {
    "id": "denzel-curry",
    "name": "Denzel Curry",
    "source": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV",
-   "image": "",
+   "image": "covers/artist-denzel-curry.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab676161000051748e265da892579da2139b659f"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb8e265da892579da2139b659f"
   },
   {
    "id": "kenny-beats",
    "name": "Kenny Beats",
    "source": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC",
-   "image": "",
+   "image": "covers/artist-kenny-beats.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174ae4a51ded0c9a8b75278f5eb"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebae4a51ded0c9a8b75278f5eb"
   },
   {
    "id": "force-of-nature",
    "name": "FORCE OF NATURE",
    "source": "https://open.spotify.com/artist/6GZBcmD8W4x2sF37coZFEK",
-   "image": "",
+   "image": "covers/artist-force-of-nature.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616d00001e02712a044de6282fcf1e42202b"
+   "imageSource": "https://i.scdn.co/image/ab67616d0000b273712a044de6282fcf1e42202b"
   },
   {
    "id": "nafla",
    "name": "nafla",
    "source": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr",
-   "image": "",
+   "image": "covers/artist-nafla.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174efc8b150051b628cc80d282e"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebefc8b150051b628cc80d282e"
   },
   {
    "id": "hank-crawford",
    "name": "Hank Crawford",
    "source": "https://open.spotify.com/artist/543js1lXeFxJKXqxC6XgT7",
-   "image": "",
+   "image": "covers/artist-hank-crawford.jpg",
    "addedAt": "2026-10-21",
    "imageSource": "https://i.scdn.co/image/0c2d4c8eca8660ee557c65706e297fdceb8cd479"
   },
@@ -812,25 +812,25 @@
    "id": "mouse-on-the-keys",
    "name": "mouse on the keys",
    "source": "https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp",
-   "image": "",
+   "image": "covers/artist-mouse-on-the-keys.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616d00001e02aec2ea1e2ac94bdcd9134f36"
+   "imageSource": "https://i.scdn.co/image/ab67616d0000b273aec2ea1e2ac94bdcd9134f36"
   },
   {
    "id": "kim-ximya",
    "name": "Kim Ximya",
    "source": "https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q",
-   "image": "",
+   "image": "covers/artist-kim-ximya.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab6761610000517439e4fe6af76f3698b01972d2"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5eb39e4fe6af76f3698b01972d2"
   },
   {
    "id": "public-enemy",
    "name": "Public Enemy",
    "source": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd",
-   "image": "",
+   "image": "covers/artist-public-enemy.jpg",
    "addedAt": "2026-10-21",
-   "imageSource": "https://i.scdn.co/image/ab67616100005174bec3cbe75ac982c675655e88"
+   "imageSource": "https://i.scdn.co/image/ab6761610000e5ebbec3cbe75ac982c675655e88"
   }
  ],
  "updatedAt": "2026-10-21",
@@ -1408,11 +1408,11 @@
    "artist": "Chris Brown",
    "type": "정규",
    "date": "2026-05-08",
-   "cover": "",
+   "cover": "covers/sp-7GToxH8az0ztPfYCeOAqij.jpg",
    "source": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e024b28d4d23dc56dc3ceda4b5d"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d"
   },
   {
    "id": "sp-2ubP3MUtDQ1kkHiuzzYg88",
@@ -1423,11 +1423,11 @@
    "artist": "Omega Sapien",
    "type": "정규",
    "date": "2026-02-12",
-   "cover": "",
+   "cover": "covers/sp-2ubP3MUtDQ1kkHiuzzYg88.jpg",
    "source": "https://open.spotify.com/album/2ubP3MUtDQ1kkHiuzzYg88",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e0293103c9cd5868a9d4c5599bc"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b27393103c9cd5868a9d4c5599bc"
   },
   {
    "id": "sp-3CHydLWaSOXR2aM4q8Hqqr",
@@ -1438,11 +1438,11 @@
    "artist": "Kid Milli",
    "type": "정규",
    "date": "2026-03-27",
-   "cover": "",
+   "cover": "covers/sp-3CHydLWaSOXR2aM4q8Hqqr.jpg",
    "source": "https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e028ede7bd2c4f85e02373d15b0"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2738ede7bd2c4f85e02373d15b0"
   },
   {
    "id": "sp-7MLyEn1CPizpS8bjZ7zzrT",
@@ -1453,11 +1453,11 @@
    "artist": "Joji",
    "type": "정규",
    "date": "2026-02-06",
-   "cover": "",
+   "cover": "covers/sp-7MLyEn1CPizpS8bjZ7zzrT.jpg",
    "source": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e0204316985c2c333c86874dad3"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3"
   },
   {
    "id": "sp-2h6YTeHoozQEaXrxMXcpBT",
@@ -1468,11 +1468,11 @@
    "artist": "MIKA",
    "type": "정규",
    "date": "2026-01-23",
-   "cover": "",
+   "cover": "covers/sp-2h6YTeHoozQEaXrxMXcpBT.jpg",
    "source": "https://open.spotify.com/album/2h6YTeHoozQEaXrxMXcpBT",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e021fd9621dbd54b211b54bb0c8"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2731fd9621dbd54b211b54bb0c8"
   },
   {
    "id": "sp-3y9ho86K2n12FPdMV4pU7U",
@@ -1483,11 +1483,11 @@
    "artist": "Tom Misch",
    "type": "정규",
    "date": "2026-03-27",
-   "cover": "",
+   "cover": "covers/sp-3y9ho86K2n12FPdMV4pU7U.jpg",
    "source": "https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e0258573177b0e8c26a80f731a2"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b27358573177b0e8c26a80f731a2"
   },
   {
    "id": "sp-13mzaP36Yzh7W4yxH9xrqs",
@@ -1498,11 +1498,11 @@
    "artist": "Legit Goons",
    "type": "정규",
    "date": "2026-03-26",
-   "cover": "",
+   "cover": "covers/sp-13mzaP36Yzh7W4yxH9xrqs.jpg",
    "source": "https://open.spotify.com/album/13mzaP36Yzh7W4yxH9xrqs",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02bdb74cadf98348937ec07009"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273bdb74cadf98348937ec07009"
   },
   {
    "id": "sp-78fAR643ERwtQcNIwo7p77",
@@ -1513,11 +1513,11 @@
    "artist": "Adam Green",
    "type": "정규",
    "date": "2026-01-22",
-   "cover": "",
+   "cover": "covers/sp-78fAR643ERwtQcNIwo7p77.jpg",
    "source": "https://open.spotify.com/album/78fAR643ERwtQcNIwo7p77",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02338a2826bf9325b534f9b57b"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273338a2826bf9325b534f9b57b"
   },
   {
    "id": "sp-7vI4iTxDmgEN63liQHPEX1",
@@ -1528,11 +1528,11 @@
    "artist": "Bruno Mars",
    "type": "정규",
    "date": "2026-02-27",
-   "cover": "",
+   "cover": "covers/sp-7vI4iTxDmgEN63liQHPEX1.jpg",
    "source": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e023eb8dc748f7efb1470f74395"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395"
   },
   {
    "id": "sp-1CJBeo8t68wKcsvN4QRuLI",
@@ -1543,11 +1543,11 @@
    "artist": "Little Simz",
    "type": "EP",
    "date": "2026-05-08",
-   "cover": "",
+   "cover": "covers/sp-1CJBeo8t68wKcsvN4QRuLI.jpg",
    "source": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e027b530fdc46f8954a80e83e84"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2737b530fdc46f8954a80e83e84"
   },
   {
    "id": "sp-131x9G87mD0hP0hGZc9qYN",
@@ -1558,11 +1558,11 @@
    "artist": "Don Toliver",
    "type": "정규",
    "date": "2026-01-30",
-   "cover": "",
+   "cover": "covers/sp-131x9G87mD0hP0hGZc9qYN.jpg",
    "source": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e0225c28f3c9fbdbab1a88dd619"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619"
   },
   {
    "id": "sp-1qSS0T6Ffrb3rFVpizzOuk",
@@ -1573,11 +1573,11 @@
    "artist": "underscores",
    "type": "정규",
    "date": "2026-03-20",
-   "cover": "",
+   "cover": "covers/sp-1qSS0T6Ffrb3rFVpizzOuk.jpg",
    "source": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02cab898cdda3ee7d1e9b25646"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273cab898cdda3ee7d1e9b25646"
   },
   {
    "id": "sp-5ZcuJ1sGBS0tl32RnHUNx1",
@@ -1588,11 +1588,11 @@
    "artist": "Fetty Wap",
    "type": "정규",
    "date": "2026-03-27",
-   "cover": "",
+   "cover": "covers/sp-5ZcuJ1sGBS0tl32RnHUNx1.jpg",
    "source": "https://open.spotify.com/album/5ZcuJ1sGBS0tl32RnHUNx1",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02e357a99b579490811309ff8e"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273e357a99b579490811309ff8e"
   },
   {
    "id": "sp-3D3S3TbKudDzd7sM0b778J",
@@ -1603,11 +1603,11 @@
    "artist": "Automatic",
    "type": "정규",
    "date": "2022-06-24",
-   "cover": "",
+   "cover": "covers/sp-3D3S3TbKudDzd7sM0b778J.jpg",
    "source": "https://open.spotify.com/album/3D3S3TbKudDzd7sM0b778J",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e028790e5214fa78c0703adafc5"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2738790e5214fa78c0703adafc5"
   },
   {
    "id": "sp-0mu3EvWYfNwBfISSg0q03p",
@@ -1618,11 +1618,11 @@
    "artist": "Boards of Canada",
    "type": "정규",
    "date": "2026-05-29",
-   "cover": "",
+   "cover": "covers/sp-0mu3EvWYfNwBfISSg0q03p.jpg",
    "source": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02c0588d9dcd8bd9e7a7845844"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273c0588d9dcd8bd9e7a7845844"
   },
   {
    "id": "sp-3PVx0nf16eZmTOiTu33UaK",
@@ -1634,11 +1634,11 @@
    "artist": "By Storm, Injury Reserve",
    "type": "정규",
    "date": "2026-01-30",
-   "cover": "",
+   "cover": "covers/sp-3PVx0nf16eZmTOiTu33UaK.jpg",
    "source": "https://open.spotify.com/album/3PVx0nf16eZmTOiTu33UaK",
    "collaboration": true,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e024809455af0038a74f82459ae"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2734809455af0038a74f82459ae"
   },
   {
    "id": "sp-5LmWpQ3tnLtX0kOm2SxB22",
@@ -1649,11 +1649,11 @@
    "artist": "JPEGMAFIA",
    "type": "정규",
    "date": "2026-05-21",
-   "cover": "",
+   "cover": "covers/sp-5LmWpQ3tnLtX0kOm2SxB22.jpg",
    "source": "https://open.spotify.com/album/5LmWpQ3tnLtX0kOm2SxB22",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e0273fe8f78133608dee4f3a5bd"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b27373fe8f78133608dee4f3a5bd"
   },
   {
    "id": "sp-1MjbVCreOaE7j2f9gQG1dR",
@@ -1664,11 +1664,11 @@
    "artist": "BILL STAX",
    "type": "정규",
    "date": "2026-04-20",
-   "cover": "",
+   "cover": "covers/sp-1MjbVCreOaE7j2f9gQG1dR.jpg",
    "source": "https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e022be0195959b10aa67eae92b3"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2732be0195959b10aa67eae92b3"
   },
   {
    "id": "sp-0pFlE0rc68RS8f3UHzioQY",
@@ -1679,11 +1679,11 @@
    "artist": "Future",
    "type": "정규",
    "date": "2026-07-10",
-   "cover": "",
+   "cover": "covers/sp-0pFlE0rc68RS8f3UHzioQY.jpg",
    "source": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02df594136a4d46f1347159c21"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273df594136a4d46f1347159c21"
   },
   {
    "id": "sp-2LryMcusFgY0edlYwJDIqj",
@@ -1694,11 +1694,11 @@
    "artist": "slayr",
    "type": "정규",
    "date": "2026-03-06",
-   "cover": "",
+   "cover": "covers/sp-2LryMcusFgY0edlYwJDIqj.jpg",
    "source": "https://open.spotify.com/album/2LryMcusFgY0edlYwJDIqj",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02062f9b3af7c96bca8fb13466"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273062f9b3af7c96bca8fb13466"
   },
   {
    "id": "sp-0luMDIjG1HiinBas3na7vc",
@@ -1710,11 +1710,11 @@
    "artist": "mgk, Wiz Khalifa",
    "type": "정규",
    "date": "2026-05-22",
-   "cover": "",
+   "cover": "covers/sp-0luMDIjG1HiinBas3na7vc.jpg",
    "source": "https://open.spotify.com/album/0luMDIjG1HiinBas3na7vc",
    "collaboration": true,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e025aa5e59454d045f3c841f56e"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2735aa5e59454d045f3c841f56e"
   },
   {
    "id": "sp-1qhNLXBmt1EW6Kwt2A3u8M",
@@ -1725,11 +1725,11 @@
    "artist": "Galaxie 500",
    "type": "정규",
    "date": "1989-09-01",
-   "cover": "",
+   "cover": "covers/sp-1qhNLXBmt1EW6Kwt2A3u8M.jpg",
    "source": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e026610d5c08e5b809ffb19b6d9"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2736610d5c08e5b809ffb19b6d9"
   },
   {
    "id": "sp-5q0iAwNwPXjXfatRJ2sdYs",
@@ -1740,11 +1740,11 @@
    "artist": "The Poles",
    "type": "정규",
    "date": "2022-01-15",
-   "cover": "",
+   "cover": "covers/sp-5q0iAwNwPXjXfatRJ2sdYs.jpg",
    "source": "https://open.spotify.com/album/5q0iAwNwPXjXfatRJ2sdYs",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02acda674910f3dd3d1820915d"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273acda674910f3dd3d1820915d"
   },
   {
    "id": "sp-4jI9SU1GmpIVhHMuYZuvX7",
@@ -1755,11 +1755,11 @@
    "artist": "J. Cole",
    "type": "정규",
    "date": "2026-02-06",
-   "cover": "",
+   "cover": "covers/sp-4jI9SU1GmpIVhHMuYZuvX7.jpg",
    "source": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e0280788f104c780412212e97e3"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b27380788f104c780412212e97e3"
   },
   {
    "id": "sp-0OAv7DCME2AV4q1KPO95HY",
@@ -1770,11 +1770,11 @@
    "artist": "Drake",
    "type": "정규",
    "date": "2026-05-15",
-   "cover": "",
+   "cover": "covers/sp-0OAv7DCME2AV4q1KPO95HY.jpg",
    "source": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02fe9d3ab9adb1d3b59835b81c"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c"
   },
   {
    "id": "sp-4DkVTJfU9qyNWKbjLoTENL",
@@ -1785,11 +1785,11 @@
    "artist": "Thundercat",
    "type": "정규",
    "date": "2026-04-03",
-   "cover": "",
+   "cover": "covers/sp-4DkVTJfU9qyNWKbjLoTENL.jpg",
    "source": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e025d6505356d39c9ec421d489b"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2735d6505356d39c9ec421d489b"
   },
   {
    "id": "sp-16tV8wTfqPyA6Cu5dwJJPc",
@@ -1800,11 +1800,11 @@
    "artist": "James Blake",
    "type": "정규",
    "date": "2026-03-13",
-   "cover": "",
+   "cover": "covers/sp-16tV8wTfqPyA6Cu5dwJJPc.jpg",
    "source": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02884dd01508605dca727d8993"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273884dd01508605dca727d8993"
   },
   {
    "id": "sp-7uLIqmPNnfmBd92Tz1apN2",
@@ -1815,11 +1815,11 @@
    "artist": "mouse on the keys",
    "type": "정규",
    "date": "2009-01-01",
-   "cover": "",
+   "cover": "covers/sp-7uLIqmPNnfmBd92Tz1apN2.jpg",
    "source": "https://open.spotify.com/album/7uLIqmPNnfmBd92Tz1apN2",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02dd43bf787c5e91e21d89d5a4"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273dd43bf787c5e91e21d89d5a4"
   },
   {
    "id": "sp-6xKnYHY00EbvxZAXYP0vhW",
@@ -1830,11 +1830,11 @@
    "artist": "SUMIN",
    "type": "정규",
    "date": "2026-08-13",
-   "cover": "",
+   "cover": "covers/sp-6xKnYHY00EbvxZAXYP0vhW.jpg",
    "source": "https://open.spotify.com/album/6xKnYHY00EbvxZAXYP0vhW",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e027563b1131404b98cb39b5026"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2737563b1131404b98cb39b5026"
   },
   {
    "id": "sp-6HzHon4QSFPGPFIjjlZN0n",
@@ -1845,11 +1845,11 @@
    "artist": "YG",
    "type": "정규",
    "date": "2014-03-18",
-   "cover": "",
+   "cover": "covers/sp-6HzHon4QSFPGPFIjjlZN0n.jpg",
    "source": "https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02d5e1093f3b6f0a59114a4905"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273d5e1093f3b6f0a59114a4905"
   },
   {
    "id": "sp-5poA9SAx0Xiz1cf17fWBLS",
@@ -1860,11 +1860,11 @@
    "artist": "Kanye West",
    "type": "정규",
    "date": "2026-03-28",
-   "cover": "",
+   "cover": "covers/sp-5poA9SAx0Xiz1cf17fWBLS.jpg",
    "source": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e0295184f6a953569b683ca9a0d"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d"
   },
   {
    "id": "sp-5BuepklHvUdNviID5Dxwrg",
@@ -1875,11 +1875,11 @@
    "artist": "Apifera",
    "type": "정규",
    "date": "2021-01-15",
-   "cover": "",
+   "cover": "covers/sp-5BuepklHvUdNviID5Dxwrg.jpg",
    "source": "https://open.spotify.com/album/5BuepklHvUdNviID5Dxwrg",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02627fde0a1124902382419696"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273627fde0a1124902382419696"
   },
   {
    "id": "sp-1fnrwCqjG1x60wT7ixaYSK",
@@ -1890,11 +1890,11 @@
    "artist": "Flawed Mangoes",
    "type": "정규",
    "date": "2026-03-06",
-   "cover": "",
+   "cover": "covers/sp-1fnrwCqjG1x60wT7ixaYSK.jpg",
    "source": "https://open.spotify.com/album/1fnrwCqjG1x60wT7ixaYSK",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e029341662b93e806aedf2cb14c"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2739341662b93e806aedf2cb14c"
   },
   {
    "id": "sp-5HSUCEmAAFT1yl5GoGUnxa",
@@ -1905,11 +1905,11 @@
    "artist": "Benny Sings",
    "type": "정규",
    "date": "2023-03-24",
-   "cover": "",
+   "cover": "covers/sp-5HSUCEmAAFT1yl5GoGUnxa.jpg",
    "source": "https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e0228f3997c8649ba8505199a7e"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b27328f3997c8649ba8505199a7e"
   },
   {
    "id": "sp-5xQ1R1NUMoANjEoWMvis7F",
@@ -1920,11 +1920,11 @@
    "artist": "Benny Sings",
    "type": "정규",
    "date": "2021-12-10",
-   "cover": "",
+   "cover": "covers/sp-5xQ1R1NUMoANjEoWMvis7F.jpg",
    "source": "https://open.spotify.com/album/5xQ1R1NUMoANjEoWMvis7F",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e023b4664d87d3ed38018102dc8"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2733b4664d87d3ed38018102dc8"
   },
   {
    "id": "sp-2YOfG5UuXGuC8tDtBreSrv",
@@ -1935,11 +1935,11 @@
    "artist": "huijun woo",
    "type": "정규",
    "date": "2025-04-17",
-   "cover": "",
+   "cover": "covers/sp-2YOfG5UuXGuC8tDtBreSrv.jpg",
    "source": "https://open.spotify.com/album/2YOfG5UuXGuC8tDtBreSrv",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e027e749e712284342f7712b29e"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2737e749e712284342f7712b29e"
   },
   {
    "id": "sp-3a1b2maWS8dV6SmPcEWz6B",
@@ -1950,11 +1950,11 @@
    "artist": "Kim Oki",
    "type": "정규",
    "date": "2019-07-06",
-   "cover": "",
+   "cover": "covers/sp-3a1b2maWS8dV6SmPcEWz6B.jpg",
    "source": "https://open.spotify.com/album/3a1b2maWS8dV6SmPcEWz6B",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02d7a5401bf779cb6b79451b32"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273d7a5401bf779cb6b79451b32"
   },
   {
    "id": "sp-6Ww8zAvaNvHZ59jXamH2fj",
@@ -1965,11 +1965,11 @@
    "artist": "Apifera",
    "type": "정규",
    "date": "2024-06-21",
-   "cover": "",
+   "cover": "covers/sp-6Ww8zAvaNvHZ59jXamH2fj.jpg",
    "source": "https://open.spotify.com/album/6Ww8zAvaNvHZ59jXamH2fj",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02abbe9de0cabfae19061179af"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273abbe9de0cabfae19061179af"
   },
   {
    "id": "sp-5WvKDb2MBThCYsSAUIlLqw",
@@ -1982,11 +1982,11 @@
    "artist": "Campus Christy, Chris Manak, Brian Ellis",
    "type": "정규",
    "date": "2024-12-06",
-   "cover": "",
+   "cover": "covers/sp-5WvKDb2MBThCYsSAUIlLqw.jpg",
    "source": "https://open.spotify.com/album/5WvKDb2MBThCYsSAUIlLqw",
    "collaboration": true,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02582104fa3244a9aeb664a590"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273582104fa3244a9aeb664a590"
   },
   {
    "id": "sp-2N7usopPTbviM8qS4ObBWU",
@@ -1997,11 +1997,11 @@
    "artist": "Joseph Solomon",
    "type": "정규",
    "date": "2026-06-26",
-   "cover": "",
+   "cover": "covers/sp-2N7usopPTbviM8qS4ObBWU.jpg",
    "source": "https://open.spotify.com/album/2N7usopPTbviM8qS4ObBWU",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e026604745419f4a7d7a6965ae5"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2736604745419f4a7d7a6965ae5"
   },
   {
    "id": "sp-4NvMwUFmY1dcDEgD8KoQjG",
@@ -2012,11 +2012,11 @@
    "artist": "Zach Bryan",
    "type": "정규",
    "date": "2026-01-09",
-   "cover": "",
+   "cover": "covers/sp-4NvMwUFmY1dcDEgD8KoQjG.jpg",
    "source": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e026addb951ebfd51d72b42123f"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2736addb951ebfd51d72b42123f"
   },
   {
    "id": "sp-475CNcvlqtRpaXjTcn4hCP",
@@ -2027,11 +2027,11 @@
    "artist": "beabadoobee",
    "type": "정규",
    "date": "2019-04-26",
-   "cover": "",
+   "cover": "covers/sp-475CNcvlqtRpaXjTcn4hCP.jpg",
    "source": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02ceca3ef39ab8f9b59acff394"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273ceca3ef39ab8f9b59acff394"
   },
   {
    "id": "sp-0e7op6Ti7JKj5YpmUJw13H",
@@ -2042,11 +2042,11 @@
    "artist": "Phoebe Rings",
    "type": "EP",
    "date": "2024-10-18",
-   "cover": "",
+   "cover": "covers/sp-0e7op6Ti7JKj5YpmUJw13H.jpg",
    "source": "https://open.spotify.com/album/0e7op6Ti7JKj5YpmUJw13H",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e021569b5fdfa55102342f4b5a4"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2731569b5fdfa55102342f4b5a4"
   },
   {
    "id": "sp-5lEphbceIgaK1XxWeSrC9E",
@@ -2057,11 +2057,11 @@
    "artist": "Cocteau Twins",
    "type": "정규",
    "date": "1990-01-01",
-   "cover": "",
+   "cover": "covers/sp-5lEphbceIgaK1XxWeSrC9E.jpg",
    "source": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02fe6211303e796f3d5b7a0e02"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273fe6211303e796f3d5b7a0e02"
   },
   {
    "id": "sp-6ouAFvDtaYWB7PdGaRtJGq",
@@ -2072,11 +2072,11 @@
    "artist": "Megadeth",
    "type": "정규",
    "date": "2026-01-23",
-   "cover": "",
+   "cover": "covers/sp-6ouAFvDtaYWB7PdGaRtJGq.jpg",
    "source": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e029259659bd5b7332b9bfa8860"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2739259659bd5b7332b9bfa8860"
   },
   {
    "id": "sp-3NeqUTO2XQrszK99hIE5xb",
@@ -2087,11 +2087,11 @@
    "artist": "FORCE OF NATURE",
    "type": "정규",
    "date": "1974-03-22",
-   "cover": "",
+   "cover": "covers/sp-3NeqUTO2XQrszK99hIE5xb.jpg",
    "source": "https://open.spotify.com/album/3NeqUTO2XQrszK99hIE5xb",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02712a044de6282fcf1e42202b"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273712a044de6282fcf1e42202b"
   },
   {
    "id": "sp-6gKsEUBZoRuGNlPCIl6ZN7",
@@ -2102,11 +2102,11 @@
    "artist": "Ryuichi Sakamoto",
    "type": "정규",
    "date": "2021-08-13",
-   "cover": "",
+   "cover": "covers/sp-6gKsEUBZoRuGNlPCIl6ZN7.jpg",
    "source": "https://open.spotify.com/album/6gKsEUBZoRuGNlPCIl6ZN7",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02a2ea188e08d70271773e95f1"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273a2ea188e08d70271773e95f1"
   },
   {
    "id": "sp-0o3FMGOuT6cHjK6tjqAgJi",
@@ -2117,11 +2117,11 @@
    "artist": "Benny Sings",
    "type": "정규",
    "date": "2021-04-09",
-   "cover": "",
+   "cover": "covers/sp-0o3FMGOuT6cHjK6tjqAgJi.jpg",
    "source": "https://open.spotify.com/album/0o3FMGOuT6cHjK6tjqAgJi",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e025970bdc7a92b77398198fec1"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2735970bdc7a92b77398198fec1"
   },
   {
    "id": "sp-4YOpO4iotuFawWYcUHvlYF",
@@ -2132,11 +2132,11 @@
    "artist": "Woo",
    "type": "EP",
    "date": "2026-04-14",
-   "cover": "",
+   "cover": "covers/sp-4YOpO4iotuFawWYcUHvlYF.jpg",
    "source": "https://open.spotify.com/album/4YOpO4iotuFawWYcUHvlYF",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02b5a15024a6f834752c04bd2b"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273b5a15024a6f834752c04bd2b"
   },
   {
    "id": "sp-4YEBMgKfdXZUHd8CUyhoSy",
@@ -2147,11 +2147,11 @@
    "artist": "LIM KIM",
    "type": "정규",
    "date": "2026-07-22",
-   "cover": "",
+   "cover": "covers/sp-4YEBMgKfdXZUHd8CUyhoSy.jpg",
    "source": "https://open.spotify.com/album/4YEBMgKfdXZUHd8CUyhoSy",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e025fce530d5007ad165edf949a"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2735fce530d5007ad165edf949a"
   },
   {
    "id": "sp-3dl6vvWGcY36km1RCaQgSl",
@@ -2163,11 +2163,11 @@
    "artist": "Brian Wilson, Van Dyke Parks",
    "type": "정규",
    "date": "1995-01-01",
-   "cover": "",
+   "cover": "covers/sp-3dl6vvWGcY36km1RCaQgSl.jpg",
    "source": "https://open.spotify.com/album/3dl6vvWGcY36km1RCaQgSl",
    "collaboration": true,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02547a230d7e5b93422de2636d"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273547a230d7e5b93422de2636d"
   },
   {
    "id": "sp-51AxfjN2gEt5qeJqPY5w0e",
@@ -2178,11 +2178,11 @@
    "artist": "Beach House",
    "type": "정규",
    "date": "2010-01-26",
-   "cover": "",
+   "cover": "covers/sp-51AxfjN2gEt5qeJqPY5w0e.jpg",
    "source": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e029ba6a1b973e91955ab23c50c"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2739ba6a1b973e91955ab23c50c"
   },
   {
    "id": "sp-5FKnRUB5lt7z5ac1lmu3BE",
@@ -2195,11 +2195,11 @@
    "artist": "Lady Gaga, Doechii, SIENNA SPIRO",
    "type": "정규",
    "date": "2026-05-01",
-   "cover": "",
+   "cover": "covers/sp-5FKnRUB5lt7z5ac1lmu3BE.jpg",
    "source": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE",
    "collaboration": true,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02973cd0eba9aa4d0ce3b08228"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273973cd0eba9aa4d0ce3b08228"
   },
   {
    "id": "sp-4RT2pNX9ZXCB0LtqfI2sdJ",
@@ -2210,11 +2210,11 @@
    "artist": "Geese",
    "type": "정규",
    "date": "2023-06-23",
-   "cover": "",
+   "cover": "covers/sp-4RT2pNX9ZXCB0LtqfI2sdJ.jpg",
    "source": "https://open.spotify.com/album/4RT2pNX9ZXCB0LtqfI2sdJ",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2738af65a82cdd9104f19e4047b"
   },
   {
    "id": "sp-2jliA7qOg03hZjRqumKssq",
@@ -2225,11 +2225,11 @@
    "artist": "Automatic",
    "type": "정규",
    "date": "2025-09-26",
-   "cover": "",
+   "cover": "covers/sp-2jliA7qOg03hZjRqumKssq.jpg",
    "source": "https://open.spotify.com/album/2jliA7qOg03hZjRqumKssq",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e0205caa622dbfc1f44bf8d7455"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b27305caa622dbfc1f44bf8d7455"
   },
   {
    "id": "sp-4vSNQ69cqRe2WgsdPXH3mv",
@@ -2240,11 +2240,11 @@
    "artist": "Skrillex",
    "type": "정규",
    "date": "2026-06-05",
-   "cover": "",
+   "cover": "covers/sp-4vSNQ69cqRe2WgsdPXH3mv.jpg",
    "source": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02f4d40a252848a83d49e0ff1b"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273f4d40a252848a83d49e0ff1b"
   },
   {
    "id": "sp-4kB9n44dTgxuiZZLtaBo9v",
@@ -2255,11 +2255,11 @@
    "artist": "んoon",
    "type": "정규",
    "date": "2026-04-01",
-   "cover": "",
+   "cover": "covers/sp-4kB9n44dTgxuiZZLtaBo9v.jpg",
    "source": "https://open.spotify.com/album/4kB9n44dTgxuiZZLtaBo9v",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02f9e362eb9caccf708f5985fb"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273f9e362eb9caccf708f5985fb"
   },
   {
    "id": "sp-6o6VAIetIFOsaOa0qt7w9u",
@@ -2270,11 +2270,11 @@
    "artist": "Quadeca",
    "type": "정규",
    "date": "2025-07-25",
-   "cover": "",
+   "cover": "covers/sp-6o6VAIetIFOsaOa0qt7w9u.jpg",
    "source": "https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02e09daa190c938f3fffbfe88a"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273e09daa190c938f3fffbfe88a"
   },
   {
    "id": "sp-46mboRimEXi5KPeUqtkC2i",
@@ -2285,11 +2285,11 @@
    "artist": "Tierra Whack",
    "type": "정규",
    "date": "2026-06-19",
-   "cover": "",
+   "cover": "covers/sp-46mboRimEXi5KPeUqtkC2i.jpg",
    "source": "https://open.spotify.com/album/46mboRimEXi5KPeUqtkC2i",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02117fa2e60be61cd93624753b"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273117fa2e60be61cd93624753b"
   },
   {
    "id": "sp-2kwTXgEgFRv1DUbhmLsNcM",
@@ -2300,11 +2300,11 @@
    "artist": "Balming Tiger",
    "type": "정규",
    "date": "2026-05-19",
-   "cover": "",
+   "cover": "covers/sp-2kwTXgEgFRv1DUbhmLsNcM.jpg",
    "source": "https://open.spotify.com/album/2kwTXgEgFRv1DUbhmLsNcM",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02ab9284856f45e3fe87e769d6"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273ab9284856f45e3fe87e769d6"
   },
   {
    "id": "sp-513jv6L44NNDZQGSaPNg7S",
@@ -2315,11 +2315,11 @@
    "artist": "Nia Archives",
    "type": "정규",
    "date": "2026-07-17",
-   "cover": "",
+   "cover": "covers/sp-513jv6L44NNDZQGSaPNg7S.jpg",
    "source": "https://open.spotify.com/album/513jv6L44NNDZQGSaPNg7S",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02be16f05a26cf84e60f433e7e"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273be16f05a26cf84e60f433e7e"
   },
   {
    "id": "sp-50sCI7KVEicmDpAxloCEyU",
@@ -2330,11 +2330,11 @@
    "artist": "Devin Morrison",
    "type": "정규",
    "date": "2026-06-18",
-   "cover": "",
+   "cover": "covers/sp-50sCI7KVEicmDpAxloCEyU.jpg",
    "source": "https://open.spotify.com/album/50sCI7KVEicmDpAxloCEyU",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02367611fb86612b76230edb4f"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273367611fb86612b76230edb4f"
   },
   {
    "id": "sp-4DWK6TLXHl1fly2zi5RlO7",
@@ -2345,11 +2345,11 @@
    "artist": "Laufey",
    "type": "정규",
    "date": "2026-04-10",
-   "cover": "",
+   "cover": "covers/sp-4DWK6TLXHl1fly2zi5RlO7.jpg",
    "source": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e026ec6bdb1b31c8cb6b1d3511f"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2736ec6bdb1b31c8cb6b1d3511f"
   },
   {
    "id": "sp-6ID17PzjagQlFsc1KFha5v",
@@ -2360,11 +2360,11 @@
    "artist": "Keith Jarrett",
    "type": "정규",
    "date": "1978-06-01",
-   "cover": "",
+   "cover": "covers/sp-6ID17PzjagQlFsc1KFha5v.jpg",
    "source": "https://open.spotify.com/album/6ID17PzjagQlFsc1KFha5v",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02c23c205d1d0bc1d5360ef2ab"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273c23c205d1d0bc1d5360ef2ab"
   },
   {
    "id": "sp-7mwyiTViOEtAtOeoilQ3QG",
@@ -2375,11 +2375,11 @@
    "artist": "Jill Scott",
    "type": "정규",
    "date": "2026-02-13",
-   "cover": "",
+   "cover": "covers/sp-7mwyiTViOEtAtOeoilQ3QG.jpg",
    "source": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e027096302e941475f3e2649fc2"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2737096302e941475f3e2649fc2"
   },
   {
    "id": "sp-5aKkn0IowVod0wgFIOwCZC",
@@ -2390,11 +2390,11 @@
    "artist": "Kim Ximya",
    "type": "정규",
    "date": "2026-09-09",
-   "cover": "",
+   "cover": "covers/sp-5aKkn0IowVod0wgFIOwCZC.jpg",
    "source": "https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02033e9618db9f377a991cb5e7"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273033e9618db9f377a991cb5e7"
   },
   {
    "id": "sp-6xBYjKF7uvteMN51uxVNJv",
@@ -2405,11 +2405,11 @@
    "artist": "Broadcast",
    "type": "정규",
    "date": "2005-09-19",
-   "cover": "",
+   "cover": "covers/sp-6xBYjKF7uvteMN51uxVNJv.jpg",
    "source": "https://open.spotify.com/album/6xBYjKF7uvteMN51uxVNJv",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02efeb5afb5e7bcb9c6660fe39"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273efeb5afb5e7bcb9c6660fe39"
   },
   {
    "id": "sp-2HdpaWmRrdkzueHVzeFsSw",
@@ -2420,11 +2420,11 @@
    "artist": "flyingfish",
    "type": "EP",
    "date": "2026-02-13",
-   "cover": "",
+   "cover": "covers/sp-2HdpaWmRrdkzueHVzeFsSw.jpg",
    "source": "https://open.spotify.com/album/2HdpaWmRrdkzueHVzeFsSw",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02bd8b91db8a1830c7028f4c2c"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273bd8b91db8a1830c7028f4c2c"
   },
   {
    "id": "sp-6c3Xs0oDVFXrqVh56D50do",
@@ -2435,11 +2435,11 @@
    "artist": "Puma Blue",
    "type": "정규",
    "date": "2026-02-06",
-   "cover": "",
+   "cover": "covers/sp-6c3Xs0oDVFXrqVh56D50do.jpg",
    "source": "https://open.spotify.com/album/6c3Xs0oDVFXrqVh56D50do",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e0254e0d836cea0dc91df9448a1"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b27354e0d836cea0dc91df9448a1"
   },
   {
    "id": "sp-1BwP4KYs256iX37FEXSoQM",
@@ -2450,11 +2450,11 @@
    "artist": "Virtual Riot",
    "type": "정규",
    "date": "2026-04-09",
-   "cover": "",
+   "cover": "covers/sp-1BwP4KYs256iX37FEXSoQM.jpg",
    "source": "https://open.spotify.com/album/1BwP4KYs256iX37FEXSoQM",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e023d9d8662f6ad309a19208ded"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2733d9d8662f6ad309a19208ded"
   },
   {
    "id": "sp-11iqEmiRj6IJ0eXj4VrhQq",
@@ -2465,11 +2465,11 @@
    "artist": "Freddie Gibbs",
    "type": "정규",
    "date": "2026-06-05",
-   "cover": "",
+   "cover": "covers/sp-11iqEmiRj6IJ0eXj4VrhQq.jpg",
    "source": "https://open.spotify.com/album/11iqEmiRj6IJ0eXj4VrhQq",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e0271bd9e2dd0ff7066599bfd43"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b27371bd9e2dd0ff7066599bfd43"
   },
   {
    "id": "sp-0Cwh78WfxUMb1P8a7tIxYm",
@@ -2480,11 +2480,11 @@
    "artist": "Sweeping Promises",
    "type": "정규",
    "date": "2020-08-14",
-   "cover": "",
+   "cover": "covers/sp-0Cwh78WfxUMb1P8a7tIxYm.jpg",
    "source": "https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02c6acd74bac9263d6c3bed607"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273c6acd74bac9263d6c3bed607"
   },
   {
    "id": "sp-44TnNITjFtCFKCWXu5nD64",
@@ -2496,11 +2496,11 @@
    "artist": "Angela Muñoz, Adrian Younge",
    "type": "정규",
    "date": "2020-06-26",
-   "cover": "",
+   "cover": "covers/sp-44TnNITjFtCFKCWXu5nD64.jpg",
    "source": "https://open.spotify.com/album/44TnNITjFtCFKCWXu5nD64",
    "collaboration": true,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e029eb8726580c91aa8fef4d1b6"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2739eb8726580c91aa8fef4d1b6"
   },
   {
    "id": "sp-6IGDCUkBJ3LEUoAcoTD46u",
@@ -2511,11 +2511,11 @@
    "artist": "Phony Ppl",
    "type": "정규",
    "date": "2015-01-13",
-   "cover": "",
+   "cover": "covers/sp-6IGDCUkBJ3LEUoAcoTD46u.jpg",
    "source": "https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02d9ac65941679b76106866c87"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273d9ac65941679b76106866c87"
   },
   {
    "id": "sp-3WZZF72ihlKPZBS4zSsNHl",
@@ -2526,11 +2526,11 @@
    "artist": "Olivia Rodrigo",
    "type": "정규",
    "date": "2026-06-12",
-   "cover": "",
+   "cover": "covers/sp-3WZZF72ihlKPZBS4zSsNHl.jpg",
    "source": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e025cf234eeb7a2edf44bf64a46"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
   },
   {
    "id": "sp-6yvKcQNyd09wYCCp8O8mNB",
@@ -2541,11 +2541,11 @@
    "artist": "Thee Sacred Souls",
    "type": "정규",
    "date": "2024-10-04",
-   "cover": "",
+   "cover": "covers/sp-6yvKcQNyd09wYCCp8O8mNB.jpg",
    "source": "https://open.spotify.com/album/6yvKcQNyd09wYCCp8O8mNB",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02fb5ec1359ec0df1e284d7eb9"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273fb5ec1359ec0df1e284d7eb9"
   },
   {
    "id": "sp-2xoj2gYed3IYmGWn3owSfu",
@@ -2556,11 +2556,11 @@
    "artist": "M.I.A.",
    "type": "정규",
    "date": "2007-08-20",
-   "cover": "",
+   "cover": "covers/sp-2xoj2gYed3IYmGWn3owSfu.jpg",
    "source": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02b969252f70cba3291b5fa077"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273b969252f70cba3291b5fa077"
   },
   {
    "id": "sp-4itKk52E9ZCdWUQcFAkud9",
@@ -2571,11 +2571,11 @@
    "artist": "A$AP Rocky",
    "type": "정규",
    "date": "2026-01-16",
-   "cover": "",
+   "cover": "covers/sp-4itKk52E9ZCdWUQcFAkud9.jpg",
    "source": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02be35d523672e13da3debc413"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413"
   },
   {
    "id": "sp-3e3940yQZe1i2GIDPNRGVB",
@@ -2586,11 +2586,11 @@
    "artist": "Syd",
    "type": "정규",
    "date": "2026-07-17",
-   "cover": "",
+   "cover": "covers/sp-3e3940yQZe1i2GIDPNRGVB.jpg",
    "source": "https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02ca2f2f7e78df204fd18fc65d"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273ca2f2f7e78df204fd18fc65d"
   },
   {
    "id": "sp-6R21I5E805CLZmDn8vESQM",
@@ -2601,11 +2601,11 @@
    "artist": "Wisp",
    "type": "정규",
    "date": "2025-08-01",
-   "cover": "",
+   "cover": "covers/sp-6R21I5E805CLZmDn8vESQM.jpg",
    "source": "https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02c8b32380575d518f0639a123"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273c8b32380575d518f0639a123"
   },
   {
    "id": "sp-5Asm8hPfn7pAlxpoir4ljs",
@@ -2616,11 +2616,11 @@
    "artist": "Vince Staples",
    "type": "정규",
    "date": "2026-06-05",
-   "cover": "",
+   "cover": "covers/sp-5Asm8hPfn7pAlxpoir4ljs.jpg",
    "source": "https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e0287ee4f91c1cf34f835dbe991"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b27387ee4f91c1cf34f835dbe991"
   },
   {
    "id": "sp-7mOrnQqDad3RgYQsJGaaqk",
@@ -2631,11 +2631,11 @@
    "artist": "Cameron Winter",
    "type": "정규",
    "date": "2024-12-06",
-   "cover": "",
+   "cover": "covers/sp-7mOrnQqDad3RgYQsJGaaqk.jpg",
    "source": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e024738aa171569052376f162fe"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2734738aa171569052376f162fe"
   },
   {
    "id": "sp-4HZ3fF1dwSZLwztlLwoDYA",
@@ -2647,11 +2647,11 @@
    "artist": "Fred again.., LATIN MAFIA",
    "type": "정규",
    "date": "2026-07-31",
-   "cover": "",
+   "cover": "covers/sp-4HZ3fF1dwSZLwztlLwoDYA.jpg",
    "source": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA",
    "collaboration": true,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e022fe1ee03a5bed6b4a2e73296"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2732fe1ee03a5bed6b4a2e73296"
   },
   {
    "id": "sp-7oBZ821DTjUc2Ky2fV6l6Q",
@@ -2662,11 +2662,11 @@
    "artist": "Brent Faiyaz",
    "type": "정규",
    "date": "2026-02-13",
-   "cover": "",
+   "cover": "covers/sp-7oBZ821DTjUc2Ky2fV6l6Q.jpg",
    "source": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02d8acadd7be5455ea09c06cf9"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273d8acadd7be5455ea09c06cf9"
   },
   {
    "id": "sp-4oniyB3TRFhjglVSqVgy9e",
@@ -2677,11 +2677,11 @@
    "artist": "Charli xcx",
    "type": "정규",
    "date": "2026-02-13",
-   "cover": "",
+   "cover": "covers/sp-4oniyB3TRFhjglVSqVgy9e.jpg",
    "source": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
   },
   {
    "id": "sp-1Rj1daFzMlYzLv7lJl14hz",
@@ -2692,11 +2692,11 @@
    "artist": "Public Enemy",
    "type": "정규",
    "date": "1988-06-28",
-   "cover": "",
+   "cover": "covers/sp-1Rj1daFzMlYzLv7lJl14hz.jpg",
    "source": "https://open.spotify.com/album/1Rj1daFzMlYzLv7lJl14hz",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02c713ac7a7e884bed1b068d95"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273c713ac7a7e884bed1b068d95"
   },
   {
    "id": "sp-31CsGmiuYFnvVMu0r2uGzq",
@@ -2707,11 +2707,11 @@
    "artist": "nafla",
    "type": "정규",
    "date": "2026-08-26",
-   "cover": "",
+   "cover": "covers/sp-31CsGmiuYFnvVMu0r2uGzq.jpg",
    "source": "https://open.spotify.com/album/31CsGmiuYFnvVMu0r2uGzq",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e025265bc61ee70db17f1ee1329"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2735265bc61ee70db17f1ee1329"
   },
   {
    "id": "sp-4yO2uzc6AgadKUtGIBCZwK",
@@ -2723,11 +2723,11 @@
    "artist": "Denzel Curry, Kenny Beats",
    "type": "정규",
    "date": "2026-08-21",
-   "cover": "",
+   "cover": "covers/sp-4yO2uzc6AgadKUtGIBCZwK.jpg",
    "source": "https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK",
    "collaboration": true,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02e33108f47dbaec59793f0932"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273e33108f47dbaec59793f0932"
   },
   {
    "id": "sp-7gJQQKw4NCd0EUz3NKshgM",
@@ -2738,11 +2738,11 @@
    "artist": "Silica Gel",
    "type": "정규",
    "date": "2026-08-20",
-   "cover": "",
+   "cover": "covers/sp-7gJQQKw4NCd0EUz3NKshgM.jpg",
    "source": "https://open.spotify.com/album/7gJQQKw4NCd0EUz3NKshgM",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e021c3d57baf36fadc063efe175"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2731c3d57baf36fadc063efe175"
   },
   {
    "id": "sp-289GZwycrFReuNB706obBx",
@@ -2753,11 +2753,11 @@
    "artist": "Steve Lacy",
    "type": "정규",
    "date": "2026-07-17",
-   "cover": "",
+   "cover": "covers/sp-289GZwycrFReuNB706obBx.jpg",
    "source": "https://open.spotify.com/album/289GZwycrFReuNB706obBx",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2734ea9ba86cd9506a004bab042"
   },
   {
    "id": "sp-2iZQUDdBmpRb0fNtAbM1XJ",
@@ -2768,11 +2768,11 @@
    "artist": "Hyelyn Joo",
    "type": "EP",
    "date": "2025-08-14",
-   "cover": "",
+   "cover": "covers/sp-2iZQUDdBmpRb0fNtAbM1XJ.jpg",
    "source": "https://open.spotify.com/album/2iZQUDdBmpRb0fNtAbM1XJ",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02772e431aab4ced9f7fbf2185"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273772e431aab4ced9f7fbf2185"
   },
   {
    "id": "sp-7zPBy6Rjmijd4p8drmQPu7",
@@ -2783,11 +2783,11 @@
    "artist": "beabadoobee",
    "type": "정규",
    "date": "2018-12-07",
-   "cover": "",
+   "cover": "covers/sp-7zPBy6Rjmijd4p8drmQPu7.jpg",
    "source": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02fe11583497b2a332995b88ed"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273fe11583497b2a332995b88ed"
   },
   {
    "id": "sp-5oT7xqbRbQCevZ0XC5aBFu",
@@ -2798,11 +2798,11 @@
    "artist": "beabadoobee",
    "type": "정규",
    "date": "2024-08-09",
-   "cover": "",
+   "cover": "covers/sp-5oT7xqbRbQCevZ0XC5aBFu.jpg",
    "source": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e027d9a2e7835a178df7b0153aa"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa"
   },
   {
    "id": "sp-0eeXb23yMW6EaIgm63xxPC",
@@ -2813,11 +2813,11 @@
    "artist": "Geese",
    "type": "정규",
    "date": "2025-09-26",
-   "cover": "",
+   "cover": "covers/sp-0eeXb23yMW6EaIgm63xxPC.jpg",
    "source": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018"
   },
   {
    "id": "sp-0EnqyUhEagJHUrFmmlTzYs",
@@ -2828,11 +2828,11 @@
    "artist": "Ash Leone",
    "type": "EP",
    "date": "2025-05-21",
-   "cover": "",
+   "cover": "covers/sp-0EnqyUhEagJHUrFmmlTzYs.jpg",
    "source": "https://open.spotify.com/album/0EnqyUhEagJHUrFmmlTzYs",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02b5b2344af8392214b0e112f7"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273b5b2344af8392214b0e112f7"
   },
   {
    "id": "sp-0VxziZFOojSiGCJ5YbVcRG",
@@ -2843,11 +2843,11 @@
    "artist": "Finneas O'Connell",
    "type": "정규",
    "date": "2026-04-16",
-   "cover": "",
+   "cover": "covers/sp-0VxziZFOojSiGCJ5YbVcRG.jpg",
    "source": "https://open.spotify.com/album/0VxziZFOojSiGCJ5YbVcRG",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02c46cf80bbf271332b1fb98f8"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273c46cf80bbf271332b1fb98f8"
   },
   {
    "id": "sp-5K18gTgac0q6Jma5HkV1vA",
@@ -2858,11 +2858,11 @@
    "artist": "Mazzy Star",
    "type": "정규",
    "date": "1993-10-05",
-   "cover": "",
+   "cover": "covers/sp-5K18gTgac0q6Jma5HkV1vA.jpg",
    "source": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e0289a392107ebd79818022b3ea"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea"
   },
   {
    "id": "sp-20r762YmB5HeofjMCiPMLv",
@@ -2873,11 +2873,11 @@
    "artist": "Kanye West",
    "type": "정규",
    "date": "2010-11-22",
-   "cover": "",
+   "cover": "covers/sp-20r762YmB5HeofjMCiPMLv.jpg",
    "source": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv",
    "collaboration": false,
    "tracks": [],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f"
   },
   {
    "id": "sp-21xGzx6HTydCnvfZTvLf6b",
@@ -2933,13 +2933,13 @@
    "artist": "Hank Crawford",
    "type": "정규",
    "date": "1973-01-01",
-   "cover": "",
+   "cover": "covers/sp-hank-crawford-wildflower.jpg",
    "source": "https://open.spotify.com/track/6k1NlbXRqTu51DiDJ7Mwwf",
    "collaboration": false,
    "tracks": [
     "sp-6k1NlbXRqTu51DiDJ7Mwwf"
    ],
-   "coverSource": "https://i.scdn.co/image/ab67616d00001e02ccbe8cdd9d47d6032ff05fb6"
+   "coverSource": "https://i.scdn.co/image/ab67616d0000b273ccbe8cdd9d47d6032ff05fb6"
   }
  ],
  "tracks": {
