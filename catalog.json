@@ -839,6 +839,14 @@
    "image": "covers/artist-durand-jones-the-indications.jpg",
    "addedAt": "2026-10-22",
    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/6d/2a/a2/6d2aa2ea-f8cb-ef2e-617f-3fa387ead792/ami-identity-3610ed745a0ed66075722bafe8106575-2025-03-19T13-24-06.421Z_cropped.png/640x640cc.jpg"
+  },
+  {
+   "id": "wonjin",
+   "name": "원진",
+   "source": "https://music.apple.com/kr/artist/%EC%9B%90%EC%A7%84/6812399617",
+   "image": "",
+   "addedAt": "2026-10-22",
+   "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/88/96/80/88968067-b3f3-30dd-5767-73277f365885/ami_U003aidentity_U003aecb50c9992bac401f6cbedfa6e20f841-2026-09-28T06-31-25.605Z_cropped.png/640x640cc.jpg"
   }
  ],
  "updatedAt": "2026-10-22",
@@ -2974,6 +2982,33 @@
     "c0947cbc179e418766cc"
    ],
    "coverSource": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/a8/cd/15a8cd7e-da90-5aa0-5559-416457a28a2f/656605152769.jpg/640x640bb.jpg"
+  },
+  {
+   "id": "apple-6812999901",
+   "collections": [
+    "wonjin"
+   ],
+   "title": "망상록",
+   "artist": "원진",
+   "type": "정규",
+   "date": "2026-10-20",
+   "cover": "covers/apple-6812999901.jpg",
+   "source": "https://music.apple.com/kr/album/mangsangrok/6812999901",
+   "collaboration": false,
+   "tracks": [
+    "fb168eddc24e4d6d5cf9",
+    "4d2d99082a189bfc66a2",
+    "4e8d0c2bb927650785fe",
+    "b58c943986a4a5ae0e82",
+    "9dd0326b3b759e0f8168",
+    "0dfeaf039f63abfb7291",
+    "8b17fcc1d2dd7ac65d22",
+    "f877246dc067a9f8a97e",
+    "eb7969fc62e19d192143",
+    "5a774f29317ad242d537",
+    "4b9b10e53aae71bb4379"
+   ],
+   "coverSource": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/d2/65/e4d265f4-c687-f9d0-dc71-98b523fec906/885288202359.png/640x640bb.jpg"
   }
  ],
  "tracks": {
@@ -3515,6 +3550,83 @@
    "artist": "Durand Jones & The Indications",
    "duration": 215,
    "source": "https://music.apple.com/us/album/i-can-see/1563802620?i=1563802755"
+  },
+  "fb168eddc24e4d6d5cf9": {
+   "id": "fb168eddc24e4d6d5cf9",
+   "title": "아름다운 세카이",
+   "artist": "원진",
+   "duration": 247,
+   "source": "https://music.apple.com/kr/album/6812999901?i=6812999902"
+  },
+  "4d2d99082a189bfc66a2": {
+   "id": "4d2d99082a189bfc66a2",
+   "title": "유랑가",
+   "artist": "원진",
+   "duration": 193,
+   "source": "https://music.apple.com/kr/album/6812999901?i=6812999903"
+  },
+  "4e8d0c2bb927650785fe": {
+   "id": "4e8d0c2bb927650785fe",
+   "title": "맛좋은",
+   "artist": "원진",
+   "duration": 87,
+   "source": "https://music.apple.com/kr/album/6812999901?i=6812999904"
+  },
+  "b58c943986a4a5ae0e82": {
+   "id": "b58c943986a4a5ae0e82",
+   "title": "캔디가 생각나",
+   "artist": "원진",
+   "duration": 191,
+   "source": "https://music.apple.com/kr/album/6812999901?i=6812999905"
+  },
+  "9dd0326b3b759e0f8168": {
+   "id": "9dd0326b3b759e0f8168",
+   "title": "좋은날",
+   "artist": "원진",
+   "duration": 225,
+   "source": "https://music.apple.com/kr/album/6812999901?i=6812999906"
+  },
+  "0dfeaf039f63abfb7291": {
+   "id": "0dfeaf039f63abfb7291",
+   "title": "겨울왕자",
+   "artist": "원진",
+   "duration": 348,
+   "source": "https://music.apple.com/kr/album/6812999901?i=6812999907"
+  },
+  "8b17fcc1d2dd7ac65d22": {
+   "id": "8b17fcc1d2dd7ac65d22",
+   "title": "느낌",
+   "artist": "원진",
+   "duration": 295,
+   "source": "https://music.apple.com/kr/album/6812999901?i=6812999908"
+  },
+  "f877246dc067a9f8a97e": {
+   "id": "f877246dc067a9f8a97e",
+   "title": "우리는",
+   "artist": "원진",
+   "duration": 243,
+   "source": "https://music.apple.com/kr/album/6812999901?i=6812999909"
+  },
+  "eb7969fc62e19d192143": {
+   "id": "eb7969fc62e19d192143",
+   "title": "무스탕",
+   "artist": "원진",
+   "duration": 126,
+   "source": "https://music.apple.com/kr/album/6812999901?i=6812999910"
+  },
+  "5a774f29317ad242d537": {
+   "id": "5a774f29317ad242d537",
+   "title": "해라",
+   "artist": "원진",
+   "duration": 230,
+   "source": "https://music.apple.com/kr/album/6812999901?i=6812999911"
+  },
+  "4b9b10e53aae71bb4379": {
+   "id": "4b9b10e53aae71bb4379",
+   "title": "카페트",
+   "artist": "원진",
+   "duration": 336,
+   "source": "https://music.apple.com/kr/album/6812999901?i=6812999912"
   }
  }
 }
