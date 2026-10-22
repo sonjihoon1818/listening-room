@@ -831,9 +831,17 @@
    "image": "covers/artist-public-enemy.jpg",
    "addedAt": "2026-10-21",
    "imageSource": "https://i.scdn.co/image/ab6761610000e5ebbec3cbe75ac982c675655e88"
+  },
+  {
+   "id": "durand-jones-the-indications",
+   "name": "Durand Jones & The Indications",
+   "source": "https://music.apple.com/us/artist/durand-jones-the-indications/1054693860",
+   "image": "covers/artist-durand-jones-the-indications.jpg",
+   "addedAt": "2026-10-22",
+   "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/6d/2a/a2/6d2aa2ea-f8cb-ef2e-617f-3fa387ead792/ami-identity-3610ed745a0ed66075722bafe8106575-2025-03-19T13-24-06.421Z_cropped.png/640x640cc.jpg"
   }
  ],
- "updatedAt": "2026-10-21",
+ "updatedAt": "2026-10-22",
  "releases": [
   {
    "id": "bc-shop-girl",
@@ -2940,6 +2948,32 @@
     "sp-6k1NlbXRqTu51DiDJ7Mwwf"
    ],
    "coverSource": "https://i.scdn.co/image/ab67616d0000b273ccbe8cdd9d47d6032ff05fb6"
+  },
+  {
+   "id": "apple-1563802620",
+   "collections": [
+    "durand-jones-the-indications"
+   ],
+   "title": "Private Space",
+   "artist": "Durand Jones & The Indications",
+   "type": "정규",
+   "date": "2021-07-30",
+   "cover": "covers/apple-1563802620.jpg",
+   "source": "https://music.apple.com/us/album/private-space/1563802620",
+   "collaboration": false,
+   "tracks": [
+    "b7958d6ebba231fe68da",
+    "b32441cd0867c8fa93ab",
+    "583b40c2c708152834f5",
+    "32a47f84d9c66ccc6e4e",
+    "f3ba7f2da4851bb03fbc",
+    "b0de5a1ef59ae4c9ac92",
+    "39bfb08e5ab8653dfe21",
+    "5508e2527a670bd32308",
+    "465585e93315e0041d03",
+    "c0947cbc179e418766cc"
+   ],
+   "coverSource": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/a8/cd/15a8cd7e-da90-5aa0-5559-416457a28a2f/656605152769.jpg/640x640bb.jpg"
   }
  ],
  "tracks": {
@@ -3411,6 +3445,76 @@
    "artist": "Hank Crawford",
    "duration": null,
    "source": "https://open.spotify.com/track/6k1NlbXRqTu51DiDJ7Mwwf"
+  },
+  "b7958d6ebba231fe68da": {
+   "id": "b7958d6ebba231fe68da",
+   "title": "Love Will Work It Out",
+   "artist": "Durand Jones & The Indications",
+   "duration": 225,
+   "source": "https://music.apple.com/us/album/love-will-work-it-out/1563802620?i=1563802625"
+  },
+  "b32441cd0867c8fa93ab": {
+   "id": "b32441cd0867c8fa93ab",
+   "title": "Witchoo",
+   "artist": "Durand Jones & The Indications",
+   "duration": 223,
+   "source": "https://music.apple.com/us/album/witchoo/1563802620?i=1563802746"
+  },
+  "583b40c2c708152834f5": {
+   "id": "583b40c2c708152834f5",
+   "title": "Private Space",
+   "artist": "Durand Jones & The Indications",
+   "duration": 312,
+   "source": "https://music.apple.com/us/album/private-space/1563802620?i=1563802748"
+  },
+  "32a47f84d9c66ccc6e4e": {
+   "id": "32a47f84d9c66ccc6e4e",
+   "title": "More Than Ever",
+   "artist": "Durand Jones & The Indications",
+   "duration": 195,
+   "source": "https://music.apple.com/us/album/more-than-ever/1563802620?i=1563802749"
+  },
+  "f3ba7f2da4851bb03fbc": {
+   "id": "f3ba7f2da4851bb03fbc",
+   "title": "Ride or Die",
+   "artist": "Durand Jones & The Indications",
+   "duration": 255,
+   "source": "https://music.apple.com/us/album/ride-or-die/1563802620?i=1563802750"
+  },
+  "b0de5a1ef59ae4c9ac92": {
+   "id": "b0de5a1ef59ae4c9ac92",
+   "title": "The Way That I Do",
+   "artist": "Durand Jones & The Indications",
+   "duration": 210,
+   "source": "https://music.apple.com/us/album/the-way-that-i-do/1563802620?i=1563802751"
+  },
+  "39bfb08e5ab8653dfe21": {
+   "id": "39bfb08e5ab8653dfe21",
+   "title": "Reach Out",
+   "artist": "Durand Jones & The Indications",
+   "duration": 258,
+   "source": "https://music.apple.com/us/album/reach-out/1563802620?i=1563802752"
+  },
+  "5508e2527a670bd32308": {
+   "id": "5508e2527a670bd32308",
+   "title": "Sexy Thang",
+   "artist": "Durand Jones & The Indications",
+   "duration": 202,
+   "source": "https://music.apple.com/us/album/sexy-thang/1563802620?i=1563802753"
+  },
+  "465585e93315e0041d03": {
+   "id": "465585e93315e0041d03",
+   "title": "Sea of Love",
+   "artist": "Durand Jones & The Indications",
+   "duration": 228,
+   "source": "https://music.apple.com/us/album/sea-of-love/1563802620?i=1563802754"
+  },
+  "c0947cbc179e418766cc": {
+   "id": "c0947cbc179e418766cc",
+   "title": "I Can See",
+   "artist": "Durand Jones & The Indications",
+   "duration": 215,
+   "source": "https://music.apple.com/us/album/i-can-see/1563802620?i=1563802755"
   }
  }
 }
